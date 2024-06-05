@@ -1,0 +1,230 @@
+{
+    "klass": "Specie",
+    "id": 227,
+    "symbol": "skarmory",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.7,
+            "weight": 50.5,
+            "type1": "steel",
+            "type2": "flying",
+            "baseHp": 65,
+            "baseAtk": 80,
+            "baseDfe": 140,
+            "baseAts": 40,
+            "baseDfs": 70,
+            "baseSpd": 70,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 2,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 163,
+            "baseLoyalty": 50,
+            "catchRate": 25,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                4,
+                0
+            ],
+            "hatchSteps": 3200,
+            "babyDbSymbol": "skarmory",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "keen_eye",
+                "sturdy",
+                "weak_armor"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0227_00",
+                "iconShiny": "0227_00",
+                "front": "0227_00",
+                "back": "0227_00",
+                "frontShiny": "0227_00",
+                "backShiny": "0227_00",
+                "frontF": "0227f_00",
+                "backF": "0227f_00",
+                "frontShinyF": "0227f_00",
+                "backShinyF": "0227f_00",
+                "footprint": "0227_00",
+                "character": "0227_00",
+                "characterF": "0227f_00",
+                "characterShiny": "0227s_00",
+                "characterShinyF": "0227fs_00",
+                "cry": "0227cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "cut",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "whirlwind",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "fly",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sand_attack",
+                    "klass": "LevelLearnableMove",
+                    "level": 10
+                },
+                {
+                    "move": "fury_attack",
+                    "klass": "LevelLearnableMove",
+                    "level": 26
+                },
+                {
+                    "move": "leer",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "roar",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "peck",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "drill_peck",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "agility",
+                    "klass": "LevelLearnableMove",
+                    "level": 16
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "swift",
+                    "klass": "LevelLearnableMove",
+                    "level": 13
+                },
+                {
+                    "move": "sky_attack",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "thief",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "curse",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "spikes",
+                    "klass": "LevelLearnableMove",
+                    "level": 42
+                },
+                {
+                    "move": "sandstorm",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "steel_wing",
+                    "klass": "LevelLearnableMove",
+                    "level": 32
+                },
+                {
+                    "move": "steel_wing",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "pursuit",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rock_smash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "torment",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "taunt",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "secret_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "air_cutter",
+                    "klass": "LevelLearnableMove",
+                    "level": 29
+                },
+                {
+                    "move": "metal_sound",
+                    "klass": "LevelLearnableMove",
+                    "level": 45
+                },
+                {
+                    "move": "aerial_ace",
+                    "klass": "TechLearnableMove"
+                }
+            ]
+        }
+    ]
+}

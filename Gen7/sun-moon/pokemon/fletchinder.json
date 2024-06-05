@@ -1,0 +1,292 @@
+{
+    "klass": "Specie",
+    "id": 662,
+    "symbol": "fletchinder",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.7,
+            "weight": 16.0,
+            "type1": "fire",
+            "type2": "flying",
+            "baseHp": 62,
+            "baseAtk": 73,
+            "baseDfe": 55,
+            "baseAts": 56,
+            "baseDfs": 52,
+            "baseSpd": 84,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 2,
+            "evolutions": [
+                {
+                    "dbSymbol": "talonflame",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 35
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 134,
+            "baseLoyalty": 50,
+            "catchRate": 120,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                4,
+                0
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "fletchling",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "flame_body",
+                "flame_body",
+                "gale_wings"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0662_00",
+                "iconShiny": "0662_00",
+                "front": "0662_00",
+                "back": "0662_00",
+                "frontShiny": "0662_00",
+                "backShiny": "0662_00",
+                "frontF": "0662f_00",
+                "backF": "0662f_00",
+                "frontShinyF": "0662f_00",
+                "backShinyF": "0662f_00",
+                "footprint": "0662_00",
+                "character": "0662_00",
+                "characterF": "0662f_00",
+                "characterShiny": "0662s_00",
+                "characterShinyF": "0662fs_00",
+                "cry": "0662cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "razor_wind",
+                    "klass": "LevelLearnableMove",
+                    "level": 27
+                },
+                {
+                    "move": "swords_dance",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "fly",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "tackle",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "growl",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "ember",
+                    "klass": "LevelLearnableMove",
+                    "level": 0
+                },
+                {
+                    "move": "ember",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "flamethrower",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "peck",
+                    "klass": "LevelLearnableMove",
+                    "level": 10
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "agility",
+                    "klass": "LevelLearnableMove",
+                    "level": 13
+                },
+                {
+                    "move": "quick_attack",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "quick_attack",
+                    "klass": "LevelLearnableMove",
+                    "level": 6
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "fire_blast",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "substitute",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "thief",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "flail",
+                    "klass": "LevelLearnableMove",
+                    "level": 16
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "swagger",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "steel_wing",
+                    "klass": "LevelLearnableMove",
+                    "level": 55
+                },
+                {
+                    "move": "steel_wing",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sleep_talk",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "will_o_wisp",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "taunt",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "overheat",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "aerial_ace",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "roost",
+                    "klass": "LevelLearnableMove",
+                    "level": 25
+                },
+                {
+                    "move": "roost",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "natural_gift",
+                    "klass": "LevelLearnableMove",
+                    "level": 31
+                },
+                {
+                    "move": "tailwind",
+                    "klass": "LevelLearnableMove",
+                    "level": 51
+                },
+                {
+                    "move": "u_turn",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "me_first",
+                    "klass": "LevelLearnableMove",
+                    "level": 46
+                },
+                {
+                    "move": "flame_charge",
+                    "klass": "LevelLearnableMove",
+                    "level": 38
+                },
+                {
+                    "move": "flame_charge",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "round",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "acrobatics",
+                    "klass": "LevelLearnableMove",
+                    "level": 42
+                },
+                {
+                    "move": "acrobatics",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "work_up",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "confide",
+                    "klass": "TechLearnableMove"
+                }
+            ]
+        }
+    ]
+}

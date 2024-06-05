@@ -1,0 +1,302 @@
+{
+    "klass": "Specie",
+    "id": 682,
+    "symbol": "spritzee",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.2,
+            "weight": 0.5,
+            "type1": "fairy",
+            "type2": "__undef__",
+            "baseHp": 78,
+            "baseAtk": 52,
+            "baseDfe": 60,
+            "baseAts": 63,
+            "baseDfs": 65,
+            "baseSpd": 23,
+            "evHp": 1,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "aromatisse",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "trade",
+                            "value": true
+                        },
+                        {
+                            "type": "itemHold",
+                            "value": "sachet"
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 68,
+            "baseLoyalty": 50,
+            "catchRate": 200,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                6,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "spritzee",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "healer",
+                "healer",
+                "aroma_veil"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0682_00",
+                "iconShiny": "0682_00",
+                "front": "0682_00",
+                "back": "0682_00",
+                "frontShiny": "0682_00",
+                "backShiny": "0682_00",
+                "frontF": "0682f_00",
+                "backF": "0682f_00",
+                "frontShinyF": "0682f_00",
+                "backShinyF": "0682f_00",
+                "footprint": "0682_00",
+                "character": "0682_00",
+                "characterF": "0682f_00",
+                "characterShiny": "0682s_00",
+                "characterShinyF": "0682fs_00",
+                "cry": "0682cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "disable",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "thunderbolt",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "psychic",
+                    "klass": "LevelLearnableMove",
+                    "level": 27
+                },
+                {
+                    "move": "psychic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "light_screen",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "reflect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "substitute",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "snore",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "flail",
+                    "klass": "LevelLearnableMove",
+                    "level": 21
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sweet_kiss",
+                    "klass": "LevelLearnableMove",
+                    "level": 3
+                },
+                {
+                    "move": "endure",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "charm",
+                    "klass": "LevelLearnableMove",
+                    "level": 30
+                },
+                {
+                    "move": "charm",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "LevelLearnableMove",
+                    "level": 18
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sleep_talk",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "encore",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sweet_scent",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "rain_dance",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "helping_hand",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "wish",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "skill_swap",
+                    "klass": "LevelLearnableMove",
+                    "level": 39
+                },
+                {
+                    "move": "skill_swap",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "aromatherapy",
+                    "klass": "LevelLearnableMove",
+                    "level": 12
+                },
+                {
+                    "move": "fake_tears",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "calm_mind",
+                    "klass": "LevelLearnableMove",
+                    "level": 33
+                },
+                {
+                    "move": "calm_mind",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "gyro_ball",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "energy_ball",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "nasty_plot",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "flash_cannon",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "trick_room",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "after_you",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "round",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "echoed_voice",
+                    "klass": "LevelLearnableMove",
+                    "level": 6
+                },
+                {
+                    "move": "ally_switch",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "draining_kiss",
+                    "klass": "LevelLearnableMove",
+                    "level": 9
+                },
+                {
+                    "move": "draining_kiss",
+                    "klass": "LevelLearnableMove",
+                    "level": 15
+                },
+                {
+                    "move": "draining_kiss",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "misty_terrain",
+                    "klass": "LevelLearnableMove",
+                    "level": 24
+                },
+                {
+                    "move": "misty_terrain",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "fairy_wind",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "moonblast",
+                    "klass": "LevelLearnableMove",
+                    "level": 36
+                },
+                {
+                    "move": "dazzling_gleam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "misty_explosion",
+                    "klass": "TutorLearnableMove"
+                }
+            ]
+        }
+    ]
+}

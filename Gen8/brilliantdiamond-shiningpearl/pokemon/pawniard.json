@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 624,
+    "symbol": "pawniard",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.5,
+            "weight": 10.2,
+            "type1": "dark",
+            "type2": "steel",
+            "baseHp": 45,
+            "baseAtk": 85,
+            "baseDfe": 70,
+            "baseAts": 40,
+            "baseDfs": 40,
+            "baseSpd": 60,
+            "evHp": 0,
+            "evAtk": 1,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "bisharp",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 52
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 68,
+            "baseLoyalty": 35,
+            "catchRate": 120,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                8,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "pawniard",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "defiant",
+                "inner_focus",
+                "pressure"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0624_00",
+                "iconShiny": "0624_00",
+                "front": "0624_00",
+                "back": "0624_00",
+                "frontShiny": "0624_00",
+                "backShiny": "0624_00",
+                "frontF": "0624f_00",
+                "backF": "0624f_00",
+                "frontShinyF": "0624f_00",
+                "backShinyF": "0624f_00",
+                "footprint": "0624_00",
+                "character": "0624_00",
+                "characterF": "0624f_00",
+                "characterShiny": "0624s_00",
+                "characterShinyF": "0624fs_00",
+                "cry": "0624cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

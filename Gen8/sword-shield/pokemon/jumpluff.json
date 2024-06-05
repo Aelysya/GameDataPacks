@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 189,
+    "symbol": "jumpluff",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.8,
+            "weight": 3.0,
+            "type1": "grass",
+            "type2": "flying",
+            "baseHp": 75,
+            "baseAtk": 55,
+            "baseDfe": 70,
+            "baseAts": 55,
+            "baseDfs": 95,
+            "baseSpd": 110,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 3,
+            "evolutions": [],
+            "experienceType": 3,
+            "baseExperience": 207,
+            "baseLoyalty": 70,
+            "catchRate": 45,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                6,
+                7
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "jumpluff",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "chlorophyll",
+                "leaf_guard",
+                "infiltrator"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0189_00",
+                "iconShiny": "0189_00",
+                "front": "0189_00",
+                "back": "0189_00",
+                "frontShiny": "0189_00",
+                "backShiny": "0189_00",
+                "frontF": "0189f_00",
+                "backF": "0189f_00",
+                "frontShinyF": "0189f_00",
+                "backShinyF": "0189f_00",
+                "footprint": "0189_00",
+                "character": "0189_00",
+                "characterF": "0189f_00",
+                "characterShiny": "0189s_00",
+                "characterShinyF": "0189fs_00",
+                "cry": "0189cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

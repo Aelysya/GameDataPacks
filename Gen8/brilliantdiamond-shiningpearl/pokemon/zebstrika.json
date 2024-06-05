@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 523,
+    "symbol": "zebstrika",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.6,
+            "weight": 79.5,
+            "type1": "electric",
+            "type2": "__undef__",
+            "baseHp": 75,
+            "baseAtk": 100,
+            "baseDfe": 63,
+            "baseAts": 80,
+            "baseDfs": 63,
+            "baseSpd": 116,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 2,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 174,
+            "baseLoyalty": 70,
+            "catchRate": 75,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "zebstrika",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "lightning_rod",
+                "motor_drive",
+                "sap_sipper"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0523_00",
+                "iconShiny": "0523_00",
+                "front": "0523_00",
+                "back": "0523_00",
+                "frontShiny": "0523_00",
+                "backShiny": "0523_00",
+                "frontF": "0523f_00",
+                "backF": "0523f_00",
+                "frontShinyF": "0523f_00",
+                "backShinyF": "0523f_00",
+                "footprint": "0523_00",
+                "character": "0523_00",
+                "characterF": "0523f_00",
+                "characterShiny": "0523s_00",
+                "characterShinyF": "0523fs_00",
+                "cry": "0523cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

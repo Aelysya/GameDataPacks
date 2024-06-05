@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 408,
+    "symbol": "cranidos",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.9,
+            "weight": 31.5,
+            "type1": "rock",
+            "type2": "__undef__",
+            "baseHp": 67,
+            "baseAtk": 125,
+            "baseDfe": 40,
+            "baseAts": 30,
+            "baseDfs": 30,
+            "baseSpd": 58,
+            "evHp": 0,
+            "evAtk": 1,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "rampardos",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 30
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 4,
+            "baseExperience": 70,
+            "baseLoyalty": 70,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                0
+            ],
+            "hatchSteps": 3840,
+            "babyDbSymbol": "cranidos",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "mold_breaker",
+                "mold_breaker",
+                "sheer_force"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0408_00",
+                "iconShiny": "0408_00",
+                "front": "0408_00",
+                "back": "0408_00",
+                "frontShiny": "0408_00",
+                "backShiny": "0408_00",
+                "frontF": "0408f_00",
+                "backF": "0408f_00",
+                "frontShinyF": "0408f_00",
+                "backShinyF": "0408f_00",
+                "footprint": "0408_00",
+                "character": "0408_00",
+                "characterF": "0408f_00",
+                "characterShiny": "0408s_00",
+                "characterShinyF": "0408fs_00",
+                "cry": "0408cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

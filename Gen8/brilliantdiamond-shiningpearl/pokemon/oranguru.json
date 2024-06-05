@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 765,
+    "symbol": "oranguru",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.5,
+            "weight": 76.0,
+            "type1": "normal",
+            "type2": "psychic",
+            "baseHp": 90,
+            "baseAtk": 60,
+            "baseDfe": 80,
+            "baseAts": 90,
+            "baseDfs": 110,
+            "baseSpd": 60,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 2,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 172,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "oranguru",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "inner_focus",
+                "telepathy",
+                "symbiosis"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0765_00",
+                "iconShiny": "0765_00",
+                "front": "0765_00",
+                "back": "0765_00",
+                "frontShiny": "0765_00",
+                "backShiny": "0765_00",
+                "frontF": "0765f_00",
+                "backF": "0765f_00",
+                "frontShinyF": "0765f_00",
+                "backShinyF": "0765f_00",
+                "footprint": "0765_00",
+                "character": "0765_00",
+                "characterF": "0765f_00",
+                "characterShiny": "0765s_00",
+                "characterShinyF": "0765fs_00",
+                "cry": "0765cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

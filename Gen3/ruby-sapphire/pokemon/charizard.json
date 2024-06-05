@@ -1,0 +1,476 @@
+{
+    "klass": "Specie",
+    "id": 6,
+    "symbol": "charizard",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.7,
+            "weight": 90.5,
+            "type1": "fire",
+            "type2": "flying",
+            "baseHp": 78,
+            "baseAtk": 84,
+            "baseDfe": 78,
+            "baseAts": 109,
+            "baseDfs": 85,
+            "baseSpd": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "form": 30,
+                    "conditions": [
+                        {
+                            "type": "gemme",
+                            "value": "megastone"
+                        }
+                    ]
+                },
+                {
+                    "form": 31,
+                    "conditions": [
+                        {
+                            "type": "gemme",
+                            "value": "megastone"
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 267,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                14
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "charizard",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "blaze",
+                "blaze",
+                "solar_power"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0006_00",
+                "iconShiny": "0006_00",
+                "front": "0006_00",
+                "back": "0006_00",
+                "frontShiny": "0006_00",
+                "backShiny": "0006_00",
+                "frontF": "0006f_00",
+                "backF": "0006f_00",
+                "frontShinyF": "0006f_00",
+                "backShinyF": "0006f_00",
+                "footprint": "0006_00",
+                "character": "0006_00",
+                "characterF": "0006f_00",
+                "characterShiny": "0006s_00",
+                "characterShinyF": "0006fs_00",
+                "cry": "0006cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "scratch",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "cut",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "wing_attack",
+                    "klass": "LevelLearnableMove",
+                    "level": 36
+                },
+                {
+                    "move": "fly",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "growl",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "roar",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "ember",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "ember",
+                    "klass": "LevelLearnableMove",
+                    "level": 7
+                },
+                {
+                    "move": "flamethrower",
+                    "klass": "LevelLearnableMove",
+                    "level": 34
+                },
+                {
+                    "move": "flamethrower",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hyper_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "strength",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "dragon_rage",
+                    "klass": "LevelLearnableMove",
+                    "level": 54
+                },
+                {
+                    "move": "fire_spin",
+                    "klass": "LevelLearnableMove",
+                    "level": 64
+                },
+                {
+                    "move": "earthquake",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "dig",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rage",
+                    "klass": "LevelLearnableMove",
+                    "level": 20
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "smokescreen",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "smokescreen",
+                    "klass": "LevelLearnableMove",
+                    "level": 13
+                },
+                {
+                    "move": "fire_blast",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "slash",
+                    "klass": "LevelLearnableMove",
+                    "level": 44
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "scary_face",
+                    "klass": "LevelLearnableMove",
+                    "level": 27
+                },
+                {
+                    "move": "steel_wing",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "iron_tail",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rock_smash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "focus_punch",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "brick_break",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "secret_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "overheat",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "aerial_ace",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "dragon_claw",
+                    "klass": "TechLearnableMove"
+                }
+            ]
+        },
+        {
+            "form": 30,
+            "height": 1.7,
+            "weight": 110.5,
+            "type1": "fire",
+            "type2": "dragon",
+            "baseHp": 78,
+            "baseAtk": 130,
+            "baseDfe": 111,
+            "baseAts": 130,
+            "baseDfs": 85,
+            "baseSpd": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 3,
+            "baseExperience": 285,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                14
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "charizard",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "tough_claws",
+                "tough_claws",
+                "tough_claws"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0006_30",
+                "iconShiny": "0006_30",
+                "front": "0006_30",
+                "back": "0006_30",
+                "frontShiny": "0006_30",
+                "backShiny": "0006_30",
+                "frontF": "0006f_30",
+                "backF": "0006f_30",
+                "frontShinyF": "0006f_30",
+                "backShinyF": "0006f_30",
+                "footprint": "0006_30",
+                "character": "0006_30",
+                "characterF": "0006f_30",
+                "characterShiny": "0006s_30",
+                "characterShinyF": "0006fs_30",
+                "cry": "0006cry_30.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        },
+        {
+            "form": 31,
+            "height": 1.7,
+            "weight": 100.5,
+            "type1": "fire",
+            "type2": "flying",
+            "baseHp": 78,
+            "baseAtk": 104,
+            "baseDfe": 78,
+            "baseAts": 159,
+            "baseDfs": 115,
+            "baseSpd": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 3,
+            "baseExperience": 285,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                14
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "charizard",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "drought",
+                "drought",
+                "drought"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0006_31",
+                "iconShiny": "0006_31",
+                "front": "0006_31",
+                "back": "0006_31",
+                "frontShiny": "0006_31",
+                "backShiny": "0006_31",
+                "frontF": "0006f_31",
+                "backF": "0006f_31",
+                "frontShinyF": "0006f_31",
+                "backShinyF": "0006f_31",
+                "footprint": "0006_31",
+                "character": "0006_31",
+                "characterF": "0006f_31",
+                "characterShiny": "0006s_31",
+                "characterShinyF": "0006fs_31",
+                "cry": "0006cry_31.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        },
+        {
+            "form": 80,
+            "height": 28.0,
+            "weight": 1000.0,
+            "type1": "fire",
+            "type2": "flying",
+            "baseHp": 78,
+            "baseAtk": 84,
+            "baseDfe": 78,
+            "baseAts": 109,
+            "baseDfs": 85,
+            "baseSpd": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 3,
+            "baseExperience": 240,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                14
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "charizard",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "blaze",
+                "blaze",
+                "solar_power"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0006_80",
+                "iconShiny": "0006_80",
+                "front": "0006_80",
+                "back": "0006_80",
+                "frontShiny": "0006_80",
+                "backShiny": "0006_80",
+                "frontF": "0006f_80",
+                "backF": "0006f_80",
+                "frontShinyF": "0006f_80",
+                "backShinyF": "0006f_80",
+                "footprint": "0006_80",
+                "character": "0006_80",
+                "characterF": "0006f_80",
+                "characterShiny": "0006s_80",
+                "characterShinyF": "0006fs_80",
+                "cry": "0006cry_80.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

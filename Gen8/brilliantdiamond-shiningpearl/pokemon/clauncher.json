@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 692,
+    "symbol": "clauncher",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.5,
+            "weight": 8.3,
+            "type1": "water",
+            "type2": "__undef__",
+            "baseHp": 50,
+            "baseAtk": 53,
+            "baseDfe": 62,
+            "baseAts": 58,
+            "baseDfs": 63,
+            "baseSpd": 44,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 1,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "clawitzer",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 37
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 2,
+            "baseExperience": 66,
+            "baseLoyalty": 50,
+            "catchRate": 225,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                2,
+                9
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "clauncher",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "mega_launcher",
+                "mega_launcher",
+                "mega_launcher"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0692_00",
+                "iconShiny": "0692_00",
+                "front": "0692_00",
+                "back": "0692_00",
+                "frontShiny": "0692_00",
+                "backShiny": "0692_00",
+                "frontF": "0692f_00",
+                "backF": "0692f_00",
+                "frontShinyF": "0692f_00",
+                "backShinyF": "0692f_00",
+                "footprint": "0692_00",
+                "character": "0692_00",
+                "characterF": "0692f_00",
+                "characterShiny": "0692s_00",
+                "characterShinyF": "0692fs_00",
+                "cry": "0692cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

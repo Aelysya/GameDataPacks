@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 740,
+    "symbol": "crabominable",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.7,
+            "weight": 180.0,
+            "type1": "fighting",
+            "type2": "ice",
+            "baseHp": 97,
+            "baseAtk": 132,
+            "baseDfe": 77,
+            "baseAts": 62,
+            "baseDfs": 67,
+            "baseSpd": 43,
+            "evHp": 0,
+            "evAtk": 2,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 167,
+            "baseLoyalty": 70,
+            "catchRate": 60,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                9,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "crabominable",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "hyper_cutter",
+                "iron_fist",
+                "anger_point"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0740_00",
+                "iconShiny": "0740_00",
+                "front": "0740_00",
+                "back": "0740_00",
+                "frontShiny": "0740_00",
+                "backShiny": "0740_00",
+                "frontF": "0740f_00",
+                "backF": "0740f_00",
+                "frontShinyF": "0740f_00",
+                "backShinyF": "0740f_00",
+                "footprint": "0740_00",
+                "character": "0740_00",
+                "characterF": "0740f_00",
+                "characterShiny": "0740s_00",
+                "characterShinyF": "0740fs_00",
+                "cry": "0740cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

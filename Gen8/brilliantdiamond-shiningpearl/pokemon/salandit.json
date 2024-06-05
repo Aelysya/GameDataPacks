@@ -1,0 +1,90 @@
+{
+    "klass": "Specie",
+    "id": 757,
+    "symbol": "salandit",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.6,
+            "weight": 4.8,
+            "type1": "poison",
+            "type2": "fire",
+            "baseHp": 48,
+            "baseAtk": 44,
+            "baseDfe": 40,
+            "baseAts": 71,
+            "baseDfs": 40,
+            "baseSpd": 77,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 1,
+            "evolutions": [
+                {
+                    "dbSymbol": "salazzle",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 33
+                        },
+                        {
+                            "type": "gender",
+                            "value": 2
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 64,
+            "baseLoyalty": 50,
+            "catchRate": 120,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                14
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "salandit",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "corrosion",
+                "corrosion",
+                "oblivious"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0757_00",
+                "iconShiny": "0757_00",
+                "front": "0757_00",
+                "back": "0757_00",
+                "frontShiny": "0757_00",
+                "backShiny": "0757_00",
+                "frontF": "0757f_00",
+                "backF": "0757f_00",
+                "frontShinyF": "0757f_00",
+                "backShinyF": "0757f_00",
+                "footprint": "0757_00",
+                "character": "0757_00",
+                "characterF": "0757f_00",
+                "characterShiny": "0757s_00",
+                "characterShinyF": "0757fs_00",
+                "cry": "0757cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "klass": "Specie",
+    "id": 642,
+    "symbol": "thundurus",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.5,
+            "weight": 61.0,
+            "type1": "electric",
+            "type2": "flying",
+            "baseHp": 79,
+            "baseAtk": 115,
+            "baseDfe": 70,
+            "baseAts": 125,
+            "baseDfs": 80,
+            "baseSpd": 111,
+            "evHp": 0,
+            "evAtk": 3,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 290,
+            "baseLoyalty": 90,
+            "catchRate": 3,
+            "femaleRate": 0.0,
+            "breedGroups": [
+                15,
+                0
+            ],
+            "hatchSteps": 15360,
+            "babyDbSymbol": "thundurus",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "prankster",
+                "prankster",
+                "defiant"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0642_00",
+                "iconShiny": "0642_00",
+                "front": "0642_00",
+                "back": "0642_00",
+                "frontShiny": "0642_00",
+                "backShiny": "0642_00",
+                "frontF": "0642f_00",
+                "backF": "0642f_00",
+                "frontShinyF": "0642f_00",
+                "backShinyF": "0642f_00",
+                "footprint": "0642_00",
+                "character": "0642_00",
+                "characterF": "0642f_00",
+                "characterShiny": "0642s_00",
+                "characterShinyF": "0642fs_00",
+                "cry": "0642cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        },
+        {
+            "form": 1,
+            "height": 3.0,
+            "weight": 61.0,
+            "type1": "electric",
+            "type2": "flying",
+            "baseHp": 79,
+            "baseAtk": 105,
+            "baseDfe": 70,
+            "baseAts": 145,
+            "baseDfs": 80,
+            "baseSpd": 101,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 290,
+            "baseLoyalty": 90,
+            "catchRate": 3,
+            "femaleRate": 0.0,
+            "breedGroups": [
+                15,
+                0
+            ],
+            "hatchSteps": 15360,
+            "babyDbSymbol": "thundurus",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "volt_absorb",
+                "volt_absorb",
+                "volt_absorb"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0642_01",
+                "iconShiny": "0642_01",
+                "front": "0642_01",
+                "back": "0642_01",
+                "frontShiny": "0642_01",
+                "backShiny": "0642_01",
+                "frontF": "0642f_01",
+                "backF": "0642f_01",
+                "frontShinyF": "0642f_01",
+                "backShinyF": "0642f_01",
+                "footprint": "0642_01",
+                "character": "0642_01",
+                "characterF": "0642f_01",
+                "characterShiny": "0642s_01",
+                "characterShinyF": "0642fs_01",
+                "cry": "0642cry_01.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

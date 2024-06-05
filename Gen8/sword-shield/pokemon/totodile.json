@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 158,
+    "symbol": "totodile",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.6,
+            "weight": 9.5,
+            "type1": "water",
+            "type2": "__undef__",
+            "baseHp": 50,
+            "baseAtk": 65,
+            "baseDfe": 64,
+            "baseAts": 44,
+            "baseDfs": 48,
+            "baseSpd": 43,
+            "evHp": 0,
+            "evAtk": 1,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "croconaw",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 18
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 63,
+            "baseLoyalty": 70,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                2
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "totodile",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "torrent",
+                "torrent",
+                "sheer_force"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0158_00",
+                "iconShiny": "0158_00",
+                "front": "0158_00",
+                "back": "0158_00",
+                "frontShiny": "0158_00",
+                "backShiny": "0158_00",
+                "frontF": "0158f_00",
+                "backF": "0158f_00",
+                "frontShinyF": "0158f_00",
+                "backShinyF": "0158f_00",
+                "footprint": "0158_00",
+                "character": "0158_00",
+                "characterF": "0158f_00",
+                "characterShiny": "0158s_00",
+                "characterShinyF": "0158fs_00",
+                "cry": "0158cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

@@ -1,0 +1,348 @@
+{
+    "klass": "Specie",
+    "id": 145,
+    "symbol": "zapdos",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.6,
+            "weight": 52.6,
+            "type1": "electric",
+            "type2": "flying",
+            "baseHp": 90,
+            "baseAtk": 90,
+            "baseDfe": 85,
+            "baseAts": 125,
+            "baseDfs": 90,
+            "baseSpd": 100,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 3,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 290,
+            "baseLoyalty": 35,
+            "catchRate": 3,
+            "femaleRate": -12.5,
+            "breedGroups": [
+                15,
+                0
+            ],
+            "hatchSteps": 10240,
+            "babyDbSymbol": "zapdos",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "pressure",
+                "pressure",
+                "static"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0145_00",
+                "iconShiny": "0145_00",
+                "front": "0145_00",
+                "back": "0145_00",
+                "frontShiny": "0145_00",
+                "backShiny": "0145_00",
+                "frontF": "0145f_00",
+                "backF": "0145f_00",
+                "frontShinyF": "0145f_00",
+                "backShinyF": "0145f_00",
+                "footprint": "0145_00",
+                "character": "0145_00",
+                "characterF": "0145f_00",
+                "characterShiny": "0145s_00",
+                "characterShinyF": "0145fs_00",
+                "cry": "0145cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "fly",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "roar",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hyper_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "peck",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "drill_peck",
+                    "klass": "LevelLearnableMove",
+                    "level": 35
+                },
+                {
+                    "move": "thunder_shock",
+                    "klass": "LevelLearnableMove",
+                    "level": 5
+                },
+                {
+                    "move": "thunderbolt",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "thunder_wave",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "thunder_wave",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "thunder",
+                    "klass": "LevelLearnableMove",
+                    "level": 55
+                },
+                {
+                    "move": "thunder",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "agility",
+                    "klass": "LevelLearnableMove",
+                    "level": 20
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "light_screen",
+                    "klass": "LevelLearnableMove",
+                    "level": 10
+                },
+                {
+                    "move": "light_screen",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "flash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "substitute",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "zap_cannon",
+                    "klass": "LevelLearnableMove",
+                    "level": 70
+                },
+                {
+                    "move": "detect",
+                    "klass": "LevelLearnableMove",
+                    "level": 60
+                },
+                {
+                    "move": "sandstorm",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "endure",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "swagger",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "steel_wing",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sleep_talk",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rain_dance",
+                    "klass": "LevelLearnableMove",
+                    "level": 50
+                },
+                {
+                    "move": "rain_dance",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "ancient_power",
+                    "klass": "LevelLearnableMove",
+                    "level": 25
+                },
+                {
+                    "move": "rock_smash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hail",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "charge",
+                    "klass": "LevelLearnableMove",
+                    "level": 30
+                },
+                {
+                    "move": "aerial_ace",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "shock_wave",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "roost",
+                    "klass": "LevelLearnableMove",
+                    "level": 40
+                },
+                {
+                    "move": "roost",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "pluck",
+                    "klass": "LevelLearnableMove",
+                    "level": 15
+                },
+                {
+                    "move": "pluck",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "u_turn",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "giga_impact",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "defog",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "discharge",
+                    "klass": "LevelLearnableMove",
+                    "level": 45
+                },
+                {
+                    "move": "charge_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "volt_switch",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "magnetic_flux",
+                    "klass": "LevelLearnableMove",
+                    "level": 65
+                }
+            ]
+        },
+        {
+            "form": 1,
+            "height": 1.6,
+            "weight": 58.2,
+            "type1": "fighting",
+            "type2": "flying",
+            "baseHp": 90,
+            "baseAtk": 125,
+            "baseDfe": 90,
+            "baseAts": 85,
+            "baseDfs": 90,
+            "baseSpd": 100,
+            "evHp": 0,
+            "evAtk": 3,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 290,
+            "baseLoyalty": 35,
+            "catchRate": 3,
+            "femaleRate": -12.5,
+            "breedGroups": [
+                15,
+                0
+            ],
+            "hatchSteps": 10240,
+            "babyDbSymbol": "zapdos",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "defiant",
+                "defiant",
+                "defiant"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0145_01",
+                "iconShiny": "0145_01",
+                "front": "0145_01",
+                "back": "0145_01",
+                "frontShiny": "0145_01",
+                "backShiny": "0145_01",
+                "frontF": "0145f_01",
+                "backF": "0145f_01",
+                "frontShinyF": "0145f_01",
+                "backShinyF": "0145f_01",
+                "footprint": "0145_01",
+                "character": "0145_01",
+                "characterF": "0145f_01",
+                "characterShiny": "0145s_01",
+                "characterShinyF": "0145fs_01",
+                "cry": "0145cry_01.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

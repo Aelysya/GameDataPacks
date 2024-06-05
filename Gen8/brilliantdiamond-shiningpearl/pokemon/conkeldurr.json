@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 534,
+    "symbol": "conkeldurr",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.4,
+            "weight": 87.0,
+            "type1": "fighting",
+            "type2": "__undef__",
+            "baseHp": 105,
+            "baseAtk": 140,
+            "baseDfe": 95,
+            "baseAts": 55,
+            "baseDfs": 65,
+            "baseSpd": 45,
+            "evHp": 0,
+            "evAtk": 3,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 3,
+            "baseExperience": 253,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 25.0,
+            "breedGroups": [
+                8,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "conkeldurr",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "guts",
+                "sheer_force",
+                "iron_fist"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0534_00",
+                "iconShiny": "0534_00",
+                "front": "0534_00",
+                "back": "0534_00",
+                "frontShiny": "0534_00",
+                "backShiny": "0534_00",
+                "frontF": "0534f_00",
+                "backF": "0534f_00",
+                "frontShinyF": "0534f_00",
+                "backShinyF": "0534f_00",
+                "footprint": "0534_00",
+                "character": "0534_00",
+                "characterF": "0534f_00",
+                "characterShiny": "0534s_00",
+                "characterShinyF": "0534fs_00",
+                "cry": "0534cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "klass": "Specie",
+    "id": 47,
+    "symbol": "parasect",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.0,
+            "weight": 29.5,
+            "type1": "bug",
+            "type2": "grass",
+            "baseHp": 60,
+            "baseAtk": 95,
+            "baseDfe": 80,
+            "baseAts": 60,
+            "baseDfs": 80,
+            "baseSpd": 30,
+            "evHp": 0,
+            "evAtk": 2,
+            "evDfe": 1,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 142,
+            "baseLoyalty": 70,
+            "catchRate": 75,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                3,
+                7
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "parasect",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "tinymushroom",
+                    "chance": 50
+                },
+                {
+                    "dbSymbol": "tinymushroom",
+                    "chance": 50
+                }
+            ],
+            "abilities": [
+                "effect_spore",
+                "dry_skin",
+                "damp"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0047_00",
+                "iconShiny": "0047_00",
+                "front": "0047_00",
+                "back": "0047_00",
+                "frontShiny": "0047_00",
+                "backShiny": "0047_00",
+                "frontF": "0047f_00",
+                "backF": "0047f_00",
+                "frontShinyF": "0047f_00",
+                "backShinyF": "0047f_00",
+                "footprint": "0047_00",
+                "character": "0047_00",
+                "characterF": "0047f_00",
+                "characterShiny": "0047s_00",
+                "characterShinyF": "0047fs_00",
+                "cry": "0047cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "scratch",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "cut",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hyper_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "growth",
+                    "klass": "LevelLearnableMove",
+                    "level": 43
+                },
+                {
+                    "move": "solar_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "poison_powder",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "poison_powder",
+                    "klass": "LevelLearnableMove",
+                    "level": 13
+                },
+                {
+                    "move": "stun_spore",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "stun_spore",
+                    "klass": "LevelLearnableMove",
+                    "level": 7
+                },
+                {
+                    "move": "dig",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "leech_life",
+                    "klass": "LevelLearnableMove",
+                    "level": 19
+                },
+                {
+                    "move": "spore",
+                    "klass": "LevelLearnableMove",
+                    "level": 27
+                },
+                {
+                    "move": "flash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "slash",
+                    "klass": "LevelLearnableMove",
+                    "level": 35
+                },
+                {
+                    "move": "thief",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sludge_bomb",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "giga_drain",
+                    "klass": "LevelLearnableMove",
+                    "level": 51
+                },
+                {
+                    "move": "giga_drain",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rock_smash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "secret_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "aromatherapy",
+                    "klass": "LevelLearnableMove",
+                    "level": 59
+                },
+                {
+                    "move": "bullet_seed",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "aerial_ace",
+                    "klass": "TechLearnableMove"
+                }
+            ]
+        }
+    ]
+}

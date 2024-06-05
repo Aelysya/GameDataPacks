@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 24,
+    "symbol": "arbok",
+    "forms": [
+        {
+            "form": 0,
+            "height": 3.5,
+            "weight": 65.0,
+            "type1": "poison",
+            "type2": "__undef__",
+            "baseHp": 60,
+            "baseAtk": 95,
+            "baseDfe": 69,
+            "baseAts": 65,
+            "baseDfs": 79,
+            "baseSpd": 80,
+            "evHp": 0,
+            "evAtk": 2,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 157,
+            "baseLoyalty": 70,
+            "catchRate": 90,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5,
+                14
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "arbok",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "intimidate",
+                "shed_skin",
+                "unnerve"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0024_00",
+                "iconShiny": "0024_00",
+                "front": "0024_00",
+                "back": "0024_00",
+                "frontShiny": "0024_00",
+                "backShiny": "0024_00",
+                "frontF": "0024f_00",
+                "backF": "0024f_00",
+                "frontShinyF": "0024f_00",
+                "backShinyF": "0024f_00",
+                "footprint": "0024_00",
+                "character": "0024_00",
+                "characterF": "0024f_00",
+                "characterShiny": "0024s_00",
+                "characterShinyF": "0024fs_00",
+                "cry": "0024cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

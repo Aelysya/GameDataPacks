@@ -1,0 +1,216 @@
+{
+    "klass": "Specie",
+    "id": 91,
+    "symbol": "cloyster",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.5,
+            "weight": 132.5,
+            "type1": "water",
+            "type2": "ice",
+            "baseHp": 50,
+            "baseAtk": 95,
+            "baseDfe": 180,
+            "baseAts": 85,
+            "baseDfs": 45,
+            "baseSpd": 70,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 2,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 184,
+            "baseLoyalty": 50,
+            "catchRate": 60,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                9,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "cloyster",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "pearl",
+                    "chance": 50
+                },
+                {
+                    "dbSymbol": "pearl",
+                    "chance": 50
+                }
+            ],
+            "abilities": [
+                "shell_armor",
+                "skill_link",
+                "overcoat"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0091_00",
+                "iconShiny": "0091_00",
+                "front": "0091_00",
+                "back": "0091_00",
+                "frontShiny": "0091_00",
+                "backShiny": "0091_00",
+                "frontF": "0091f_00",
+                "backF": "0091f_00",
+                "frontShinyF": "0091f_00",
+                "backShinyF": "0091f_00",
+                "footprint": "0091_00",
+                "character": "0091_00",
+                "characterF": "0091f_00",
+                "characterShiny": "0091s_00",
+                "characterShinyF": "0091fs_00",
+                "cry": "0091cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "supersonic",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "surf",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "ice_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "blizzard",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "aurora_beam",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "hyper_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "withdraw",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "spike_cannon",
+                    "klass": "LevelLearnableMove",
+                    "level": 13
+                },
+                {
+                    "move": "explosion",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "substitute",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "protect",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "spikes",
+                    "klass": "LevelLearnableMove",
+                    "level": 28
+                },
+                {
+                    "move": "swagger",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rain_dance",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hail",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "torment",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "dive",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "payback",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "toxic_spikes",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "poison_jab",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "giga_impact",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "round",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frost_breath",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "icicle_crash",
+                    "klass": "LevelLearnableMove",
+                    "level": 52
+                }
+            ]
+        }
+    ]
+}

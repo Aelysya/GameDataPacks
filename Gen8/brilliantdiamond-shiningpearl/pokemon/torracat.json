@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 726,
+    "symbol": "torracat",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.7,
+            "weight": 25.0,
+            "type1": "fire",
+            "type2": "__undef__",
+            "baseHp": 65,
+            "baseAtk": 85,
+            "baseDfe": 50,
+            "baseAts": 80,
+            "baseDfs": 50,
+            "baseSpd": 90,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 2,
+            "evolutions": [
+                {
+                    "dbSymbol": "incineroar",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 34
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 147,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                5,
+                0
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "litten",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "blaze",
+                "blaze",
+                "intimidate"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0726_00",
+                "iconShiny": "0726_00",
+                "front": "0726_00",
+                "back": "0726_00",
+                "frontShiny": "0726_00",
+                "backShiny": "0726_00",
+                "frontF": "0726f_00",
+                "backF": "0726f_00",
+                "frontShinyF": "0726f_00",
+                "backShinyF": "0726f_00",
+                "footprint": "0726_00",
+                "character": "0726_00",
+                "characterF": "0726f_00",
+                "characterShiny": "0726s_00",
+                "characterShinyF": "0726fs_00",
+                "cry": "0726cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

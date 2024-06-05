@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 639,
+    "symbol": "terrakion",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.9,
+            "weight": 260.0,
+            "type1": "rock",
+            "type2": "fighting",
+            "baseHp": 91,
+            "baseAtk": 129,
+            "baseDfe": 90,
+            "baseAts": 72,
+            "baseDfs": 90,
+            "baseSpd": 108,
+            "evHp": 0,
+            "evAtk": 3,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 2,
+            "baseExperience": 290,
+            "baseLoyalty": 35,
+            "catchRate": 3,
+            "femaleRate": -12.5,
+            "breedGroups": [
+                15,
+                0
+            ],
+            "hatchSteps": 10240,
+            "babyDbSymbol": "terrakion",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "justified",
+                "justified",
+                "justified"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0639_00",
+                "iconShiny": "0639_00",
+                "front": "0639_00",
+                "back": "0639_00",
+                "frontShiny": "0639_00",
+                "backShiny": "0639_00",
+                "frontF": "0639f_00",
+                "backF": "0639f_00",
+                "frontShinyF": "0639f_00",
+                "backShinyF": "0639f_00",
+                "footprint": "0639_00",
+                "character": "0639_00",
+                "characterF": "0639f_00",
+                "characterShiny": "0639s_00",
+                "characterShinyF": "0639fs_00",
+                "cry": "0639cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

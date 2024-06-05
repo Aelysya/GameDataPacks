@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 533,
+    "symbol": "gurdurr",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.2,
+            "weight": 40.0,
+            "type1": "fighting",
+            "type2": "__undef__",
+            "baseHp": 85,
+            "baseAtk": 105,
+            "baseDfe": 85,
+            "baseAts": 40,
+            "baseDfs": 50,
+            "baseSpd": 40,
+            "evHp": 0,
+            "evAtk": 2,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "conkeldurr",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "trade",
+                            "value": true
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 142,
+            "baseLoyalty": 50,
+            "catchRate": 90,
+            "femaleRate": 25.0,
+            "breedGroups": [
+                8,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "timburr",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "guts",
+                "sheer_force",
+                "iron_fist"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0533_00",
+                "iconShiny": "0533_00",
+                "front": "0533_00",
+                "back": "0533_00",
+                "frontShiny": "0533_00",
+                "backShiny": "0533_00",
+                "frontF": "0533f_00",
+                "backF": "0533f_00",
+                "frontShinyF": "0533f_00",
+                "backShinyF": "0533f_00",
+                "footprint": "0533_00",
+                "character": "0533_00",
+                "characterF": "0533f_00",
+                "characterShiny": "0533s_00",
+                "characterShinyF": "0533fs_00",
+                "cry": "0533cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

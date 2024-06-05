@@ -1,0 +1,75 @@
+{
+    "klass": "Specie",
+    "id": 219,
+    "symbol": "magcargo",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.8,
+            "weight": 55.0,
+            "type1": "fire",
+            "type2": "rock",
+            "baseHp": 60,
+            "baseAtk": 50,
+            "baseDfe": 120,
+            "baseAts": 90,
+            "baseDfs": 80,
+            "baseSpd": 30,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 2,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 151,
+            "baseLoyalty": 70,
+            "catchRate": 75,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                11,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "magcargo",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "magma_armor",
+                "flame_body",
+                "weak_armor"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0219_00",
+                "iconShiny": "0219_00",
+                "front": "0219_00",
+                "back": "0219_00",
+                "frontShiny": "0219_00",
+                "backShiny": "0219_00",
+                "frontF": "0219f_00",
+                "backF": "0219f_00",
+                "frontShinyF": "0219f_00",
+                "backShinyF": "0219f_00",
+                "footprint": "0219_00",
+                "character": "0219_00",
+                "characterF": "0219f_00",
+                "characterShiny": "0219s_00",
+                "characterShinyF": "0219fs_00",
+                "cry": "0219cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

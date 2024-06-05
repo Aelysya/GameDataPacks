@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 656,
+    "symbol": "froakie",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.3,
+            "weight": 7.0,
+            "type1": "water",
+            "type2": "__undef__",
+            "baseHp": 41,
+            "baseAtk": 56,
+            "baseDfe": 40,
+            "baseAts": 62,
+            "baseDfs": 44,
+            "baseSpd": 71,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 1,
+            "evolutions": [
+                {
+                    "dbSymbol": "frogadier",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 16
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 63,
+            "baseLoyalty": 70,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                2,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "froakie",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "torrent",
+                "torrent",
+                "protean"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0656_00",
+                "iconShiny": "0656_00",
+                "front": "0656_00",
+                "back": "0656_00",
+                "frontShiny": "0656_00",
+                "backShiny": "0656_00",
+                "frontF": "0656f_00",
+                "backF": "0656f_00",
+                "frontShinyF": "0656f_00",
+                "backShinyF": "0656f_00",
+                "footprint": "0656_00",
+                "character": "0656_00",
+                "characterF": "0656f_00",
+                "characterShiny": "0656s_00",
+                "characterShinyF": "0656fs_00",
+                "cry": "0656cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

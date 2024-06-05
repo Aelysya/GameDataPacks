@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 595,
+    "symbol": "joltik",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.1,
+            "weight": 0.6,
+            "type1": "bug",
+            "type2": "electric",
+            "baseHp": 50,
+            "baseAtk": 47,
+            "baseDfe": 50,
+            "baseAts": 57,
+            "baseDfs": 50,
+            "baseSpd": 65,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 1,
+            "evolutions": [
+                {
+                    "dbSymbol": "galvantula",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 36
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 64,
+            "baseLoyalty": 50,
+            "catchRate": 190,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                3,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "joltik",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "compound_eyes",
+                "unnerve",
+                "swarm"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0595_00",
+                "iconShiny": "0595_00",
+                "front": "0595_00",
+                "back": "0595_00",
+                "frontShiny": "0595_00",
+                "backShiny": "0595_00",
+                "frontF": "0595f_00",
+                "backF": "0595f_00",
+                "frontShinyF": "0595f_00",
+                "backShinyF": "0595f_00",
+                "footprint": "0595_00",
+                "character": "0595_00",
+                "characterF": "0595f_00",
+                "characterShiny": "0595s_00",
+                "characterShinyF": "0595fs_00",
+                "cry": "0595cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "klass": "Specie",
+    "id": 240,
+    "symbol": "magby",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.7,
+            "weight": 21.4,
+            "type1": "fire",
+            "type2": "__undef__",
+            "baseHp": 45,
+            "baseAtk": 75,
+            "baseDfe": 37,
+            "baseAts": 70,
+            "baseDfs": 55,
+            "baseSpd": 83,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 1,
+            "evolutions": [
+                {
+                    "dbSymbol": "magmar",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 30
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 73,
+            "baseLoyalty": 50,
+            "catchRate": 45,
+            "femaleRate": 25.0,
+            "breedGroups": [
+                15,
+                0
+            ],
+            "hatchSteps": 3200,
+            "babyDbSymbol": "magby",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "rawstberry",
+                    "chance": 100
+                },
+                {
+                    "dbSymbol": "rawstberry",
+                    "chance": 100
+                }
+            ],
+            "abilities": [
+                "flame_body",
+                "flame_body",
+                "vital_spirit"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0240_00",
+                "iconShiny": "0240_00",
+                "front": "0240_00",
+                "back": "0240_00",
+                "frontShiny": "0240_00",
+                "backShiny": "0240_00",
+                "frontF": "0240f_00",
+                "backF": "0240f_00",
+                "frontShinyF": "0240f_00",
+                "backShinyF": "0240f_00",
+                "footprint": "0240_00",
+                "character": "0240_00",
+                "characterF": "0240f_00",
+                "characterShiny": "0240s_00",
+                "characterShinyF": "0240fs_00",
+                "cry": "0240cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "karate_chop",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "mega_punch",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "fire_punch",
+                    "klass": "LevelLearnableMove",
+                    "level": 19
+                },
+                {
+                    "move": "thunder_punch",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "leer",
+                    "klass": "LevelLearnableMove",
+                    "level": 7
+                },
+                {
+                    "move": "ember",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "flamethrower",
+                    "klass": "LevelLearnableMove",
+                    "level": 37
+                },
+                {
+                    "move": "flamethrower",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "psychic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "screech",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "smokescreen",
+                    "klass": "LevelLearnableMove",
+                    "level": 25
+                },
+                {
+                    "move": "confuse_ray",
+                    "klass": "LevelLearnableMove",
+                    "level": 43
+                },
+                {
+                    "move": "barrier",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "smog",
+                    "klass": "LevelLearnableMove",
+                    "level": 13
+                },
+                {
+                    "move": "fire_blast",
+                    "klass": "LevelLearnableMove",
+                    "level": 49
+                },
+                {
+                    "move": "fire_blast",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "thief",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "iron_tail",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "cross_chop",
+                    "klass": "BreedLearnableMove"
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "LevelLearnableMove",
+                    "level": 31
+                },
+                {
+                    "move": "sunny_day",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rock_smash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "focus_punch",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "brick_break",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "secret_power",
+                    "klass": "TechLearnableMove"
+                }
+            ]
+        }
+    ]
+}

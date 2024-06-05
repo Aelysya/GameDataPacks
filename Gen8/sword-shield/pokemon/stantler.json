@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 234,
+    "symbol": "stantler",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.4,
+            "weight": 71.2,
+            "type1": "normal",
+            "type2": "__undef__",
+            "baseHp": 73,
+            "baseAtk": 95,
+            "baseDfe": 62,
+            "baseAts": 85,
+            "baseDfs": 65,
+            "baseSpd": 85,
+            "evHp": 0,
+            "evAtk": 1,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "wyrdeer",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "skill1",
+                            "value": "psyshield_bash"
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 2,
+            "baseExperience": 163,
+            "baseLoyalty": 70,
+            "catchRate": 45,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5,
+                0
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "stantler",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "intimidate",
+                "frisk",
+                "sap_sipper"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0234_00",
+                "iconShiny": "0234_00",
+                "front": "0234_00",
+                "back": "0234_00",
+                "frontShiny": "0234_00",
+                "backShiny": "0234_00",
+                "frontF": "0234f_00",
+                "backF": "0234f_00",
+                "frontShinyF": "0234f_00",
+                "backShinyF": "0234f_00",
+                "footprint": "0234_00",
+                "character": "0234_00",
+                "characterF": "0234f_00",
+                "characterShiny": "0234s_00",
+                "characterShinyF": "0234fs_00",
+                "cry": "0234cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

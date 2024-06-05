@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 559,
+    "symbol": "scraggy",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.6,
+            "weight": 11.8,
+            "type1": "dark",
+            "type2": "fighting",
+            "baseHp": 50,
+            "baseAtk": 75,
+            "baseDfe": 70,
+            "baseAts": 35,
+            "baseDfs": 70,
+            "baseSpd": 48,
+            "evHp": 0,
+            "evAtk": 1,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "scrafty",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 39
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 70,
+            "baseLoyalty": 35,
+            "catchRate": 180,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                5,
+                14
+            ],
+            "hatchSteps": 1920,
+            "babyDbSymbol": "scraggy",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "shed_skin",
+                "moxie",
+                "intimidate"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0559_00",
+                "iconShiny": "0559_00",
+                "front": "0559_00",
+                "back": "0559_00",
+                "frontShiny": "0559_00",
+                "backShiny": "0559_00",
+                "frontF": "0559f_00",
+                "backF": "0559f_00",
+                "frontShinyF": "0559f_00",
+                "backShinyF": "0559f_00",
+                "footprint": "0559_00",
+                "character": "0559_00",
+                "characterF": "0559f_00",
+                "characterShiny": "0559s_00",
+                "characterShinyF": "0559fs_00",
+                "cry": "0559cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

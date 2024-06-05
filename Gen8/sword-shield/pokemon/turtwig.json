@@ -1,0 +1,86 @@
+{
+    "klass": "Specie",
+    "id": 387,
+    "symbol": "turtwig",
+    "forms": [
+        {
+            "form": 0,
+            "height": 0.4,
+            "weight": 10.2,
+            "type1": "grass",
+            "type2": "__undef__",
+            "baseHp": 55,
+            "baseAtk": 68,
+            "baseDfe": 64,
+            "baseAts": 45,
+            "baseDfs": 55,
+            "baseSpd": 31,
+            "evHp": 0,
+            "evAtk": 1,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "dbSymbol": "grotle",
+                    "form": 0,
+                    "conditions": [
+                        {
+                            "type": "minLevel",
+                            "value": 18
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 3,
+            "baseExperience": 64,
+            "baseLoyalty": 70,
+            "catchRate": 45,
+            "femaleRate": 12.5,
+            "breedGroups": [
+                1,
+                7
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "turtwig",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "overgrow",
+                "overgrow",
+                "shell_armor"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0387_00",
+                "iconShiny": "0387_00",
+                "front": "0387_00",
+                "back": "0387_00",
+                "frontShiny": "0387_00",
+                "backShiny": "0387_00",
+                "frontF": "0387f_00",
+                "backF": "0387f_00",
+                "frontShinyF": "0387f_00",
+                "backShinyF": "0387f_00",
+                "footprint": "0387_00",
+                "character": "0387_00",
+                "characterF": "0387f_00",
+                "characterShiny": "0387s_00",
+                "characterShinyF": "0387fs_00",
+                "cry": "0387cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

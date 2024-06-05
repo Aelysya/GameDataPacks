@@ -1,0 +1,217 @@
+{
+    "klass": "Specie",
+    "id": 550,
+    "symbol": "basculin",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.0,
+            "weight": 18.0,
+            "type1": "water",
+            "type2": "__undef__",
+            "baseHp": 70,
+            "baseAtk": 92,
+            "baseDfe": 65,
+            "baseAts": 80,
+            "baseDfs": 55,
+            "baseSpd": 98,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 2,
+            "evolutions": [
+                {
+                    "dbSymbol": "basculegion",
+                    "form": 0,
+                    "conditions": []
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 161,
+            "baseLoyalty": 50,
+            "catchRate": 25,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                12,
+                0
+            ],
+            "hatchSteps": 5120,
+            "babyDbSymbol": "basculin",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "reckless",
+                "adaptability",
+                "mold_breaker"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0550_00",
+                "iconShiny": "0550_00",
+                "front": "0550_00",
+                "back": "0550_00",
+                "frontShiny": "0550_00",
+                "backShiny": "0550_00",
+                "frontF": "0550f_00",
+                "backF": "0550f_00",
+                "frontShinyF": "0550f_00",
+                "backShinyF": "0550f_00",
+                "footprint": "0550_00",
+                "character": "0550_00",
+                "characterF": "0550f_00",
+                "characterShiny": "0550s_00",
+                "characterShinyF": "0550fs_00",
+                "cry": "0550cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        },
+        {
+            "form": 1,
+            "height": 1.0,
+            "weight": 18.0,
+            "type1": "water",
+            "type2": "__undef__",
+            "baseHp": 70,
+            "baseAtk": 92,
+            "baseDfe": 65,
+            "baseAts": 80,
+            "baseDfs": 55,
+            "baseSpd": 98,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 2,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 161,
+            "baseLoyalty": 50,
+            "catchRate": 25,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                12,
+                0
+            ],
+            "hatchSteps": 5120,
+            "babyDbSymbol": "basculin",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "rock_head",
+                "adaptability",
+                "mold_breaker"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0550_01",
+                "iconShiny": "0550_01",
+                "front": "0550_01",
+                "back": "0550_01",
+                "frontShiny": "0550_01",
+                "backShiny": "0550_01",
+                "frontF": "0550f_01",
+                "backF": "0550f_01",
+                "frontShinyF": "0550f_01",
+                "backShinyF": "0550f_01",
+                "footprint": "0550_01",
+                "character": "0550_01",
+                "characterF": "0550f_01",
+                "characterShiny": "0550s_01",
+                "characterShinyF": "0550fs_01",
+                "cry": "0550cry_01.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        },
+        {
+            "form": 2,
+            "height": 1.0,
+            "weight": 18.0,
+            "type1": "water",
+            "type2": "__undef__",
+            "baseHp": 70,
+            "baseAtk": 92,
+            "baseDfe": 65,
+            "baseAts": 80,
+            "baseDfs": 55,
+            "baseSpd": 98,
+            "evHp": 0,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 2,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": null,
+            "baseLoyalty": 50,
+            "catchRate": 25,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                12,
+                0
+            ],
+            "hatchSteps": 5120,
+            "babyDbSymbol": "basculin",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "rattled",
+                "adaptability",
+                "mold_breaker"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0550_02",
+                "iconShiny": "0550_02",
+                "front": "0550_02",
+                "back": "0550_02",
+                "frontShiny": "0550_02",
+                "backShiny": "0550_02",
+                "frontF": "0550f_02",
+                "backF": "0550f_02",
+                "frontShinyF": "0550f_02",
+                "backShinyF": "0550f_02",
+                "footprint": "0550_02",
+                "character": "0550_02",
+                "characterF": "0550f_02",
+                "characterShiny": "0550s_02",
+                "characterShinyF": "0550fs_02",
+                "cry": "0550cry_02.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}

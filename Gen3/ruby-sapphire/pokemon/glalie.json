@@ -1,0 +1,316 @@
+{
+    "klass": "Specie",
+    "id": 362,
+    "symbol": "glalie",
+    "forms": [
+        {
+            "form": 0,
+            "height": 1.5,
+            "weight": 256.5,
+            "type1": "ice",
+            "type2": "__undef__",
+            "baseHp": 80,
+            "baseAtk": 80,
+            "baseDfe": 80,
+            "baseAts": 80,
+            "baseDfs": 80,
+            "baseSpd": 80,
+            "evHp": 2,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [
+                {
+                    "form": 30,
+                    "conditions": [
+                        {
+                            "type": "gemme",
+                            "value": "megastone"
+                        }
+                    ]
+                }
+            ],
+            "experienceType": 1,
+            "baseExperience": 168,
+            "baseLoyalty": 50,
+            "catchRate": 75,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                6,
+                10
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "glalie",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "nevermeltice",
+                    "chance": 5
+                },
+                {
+                    "dbSymbol": "nevermeltice",
+                    "chance": 5
+                }
+            ],
+            "abilities": [
+                "inner_focus",
+                "ice_body",
+                "moody"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0362_00",
+                "iconShiny": "0362_00",
+                "front": "0362_00",
+                "back": "0362_00",
+                "frontShiny": "0362_00",
+                "backShiny": "0362_00",
+                "frontF": "0362f_00",
+                "backF": "0362f_00",
+                "frontShinyF": "0362f_00",
+                "backShinyF": "0362f_00",
+                "footprint": "0362_00",
+                "character": "0362_00",
+                "characterF": "0362f_00",
+                "characterShiny": "0362s_00",
+                "characterShinyF": "0362fs_00",
+                "cry": "0362cry_00.ogg",
+                "hasFemale": false
+            },
+            "moveSet": [
+                {
+                    "move": "headbutt",
+                    "klass": "LevelLearnableMove",
+                    "level": 19
+                },
+                {
+                    "move": "leer",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "bite",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "bite",
+                    "klass": "LevelLearnableMove",
+                    "level": 10
+                },
+                {
+                    "move": "ice_beam",
+                    "klass": "LevelLearnableMove",
+                    "level": 34
+                },
+                {
+                    "move": "ice_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "blizzard",
+                    "klass": "LevelLearnableMove",
+                    "level": 53
+                },
+                {
+                    "move": "blizzard",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hyper_beam",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "earthquake",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "toxic",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "double_team",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "double_team",
+                    "klass": "LevelLearnableMove",
+                    "level": 7
+                },
+                {
+                    "move": "double_team",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "light_screen",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "flash",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rest",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "powder_snow",
+                    "klass": "LevelLearnableMove",
+                    "level": 1
+                },
+                {
+                    "move": "protect",
+                    "klass": "LevelLearnableMove",
+                    "level": 25
+                },
+                {
+                    "move": "protect",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "icy_wind",
+                    "klass": "LevelLearnableMove",
+                    "level": 16
+                },
+                {
+                    "move": "attract",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "return",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "frustration",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "safeguard",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hidden_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "rain_dance",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "crunch",
+                    "klass": "LevelLearnableMove",
+                    "level": 28
+                },
+                {
+                    "move": "shadow_ball",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "hail",
+                    "klass": "LevelLearnableMove",
+                    "level": 42
+                },
+                {
+                    "move": "hail",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "torment",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "facade",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "taunt",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "secret_power",
+                    "klass": "TechLearnableMove"
+                },
+                {
+                    "move": "sheer_cold",
+                    "klass": "LevelLearnableMove",
+                    "level": 61
+                },
+                {
+                    "move": "water_pulse",
+                    "klass": "TechLearnableMove"
+                }
+            ]
+        },
+        {
+            "form": 30,
+            "height": 2.1,
+            "weight": 350.2,
+            "type1": "ice",
+            "type2": "__undef__",
+            "baseHp": 80,
+            "baseAtk": 120,
+            "baseDfe": 80,
+            "baseAts": 120,
+            "baseDfs": 80,
+            "baseSpd": 100,
+            "evHp": 2,
+            "evAtk": 0,
+            "evDfe": 0,
+            "evAts": 0,
+            "evDfs": 0,
+            "evSpd": 0,
+            "evolutions": [],
+            "experienceType": 1,
+            "baseExperience": 203,
+            "baseLoyalty": 50,
+            "catchRate": 75,
+            "femaleRate": 50.0,
+            "breedGroups": [
+                6,
+                10
+            ],
+            "hatchSteps": 2560,
+            "babyDbSymbol": "glalie",
+            "babyForm": 0,
+            "itemHeld": [
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                },
+                {
+                    "dbSymbol": "none",
+                    "chance": 0
+                }
+            ],
+            "abilities": [
+                "refrigerate",
+                "refrigerate",
+                "refrigerate"
+            ],
+            "frontOffsetY": 0,
+            "resources": {
+                "icon": "0362_30",
+                "iconShiny": "0362_30",
+                "front": "0362_30",
+                "back": "0362_30",
+                "frontShiny": "0362_30",
+                "backShiny": "0362_30",
+                "frontF": "0362f_30",
+                "backF": "0362f_30",
+                "frontShinyF": "0362f_30",
+                "backShinyF": "0362f_30",
+                "footprint": "0362_30",
+                "character": "0362_30",
+                "characterF": "0362f_30",
+                "characterShiny": "0362s_30",
+                "characterShinyF": "0362fs_30",
+                "cry": "0362cry_30.ogg",
+                "hasFemale": false
+            },
+            "moveSet": []
+        }
+    ]
+}
