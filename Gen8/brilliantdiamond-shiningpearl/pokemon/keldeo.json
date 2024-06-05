@@ -1,143 +1,143 @@
 {
-    "klass": "Specie",
-    "id": 647,
-    "symbol": "keldeo",
-    "forms": [
+  "klass": "Specie",
+  "id": 647,
+  "dbSymbol": "keldeo",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.4,
+      "weight": 48.5,
+      "type1": "water",
+      "type2": "fighting",
+      "baseHp": 91,
+      "baseAtk": 72,
+      "baseDfe": 90,
+      "baseAts": 129,
+      "baseDfs": 90,
+      "baseSpd": 108,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 290,
+      "baseLoyalty": 35,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        15,
+        0
+      ],
+      "hatchSteps": 10240,
+      "babyDbSymbol": "keldeo",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.4,
-            "weight": 48.5,
-            "type1": "water",
-            "type2": "fighting",
-            "baseHp": 91,
-            "baseAtk": 72,
-            "baseDfe": 90,
-            "baseAts": 129,
-            "baseDfs": 90,
-            "baseSpd": 108,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 3,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 290,
-            "baseLoyalty": 35,
-            "catchRate": 3,
-            "femaleRate": -1,
-            "breedGroups": [
-                15,
-                0
-            ],
-            "hatchSteps": 10240,
-            "babyDbSymbol": "keldeo",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "justified",
-                "justified",
-                "justified"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0647_00",
-                "iconShiny": "0647_00",
-                "front": "0647_00",
-                "back": "0647_00",
-                "frontShiny": "0647_00",
-                "backShiny": "0647_00",
-                "frontF": "0647f_00",
-                "backF": "0647f_00",
-                "frontShinyF": "0647f_00",
-                "backShinyF": "0647f_00",
-                "footprint": "0647_00",
-                "character": "0647_00",
-                "characterF": "0647f_00",
-                "characterShiny": "0647s_00",
-                "characterShinyF": "0647fs_00",
-                "cry": "0647cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 1.4,
-            "weight": 48.5,
-            "type1": "water",
-            "type2": "fighting",
-            "baseHp": 91,
-            "baseAtk": 72,
-            "baseDfe": 90,
-            "baseAts": 129,
-            "baseDfs": 90,
-            "baseSpd": 108,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 3,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 290,
-            "baseLoyalty": 35,
-            "catchRate": 3,
-            "femaleRate": -1,
-            "breedGroups": [
-                15,
-                0
-            ],
-            "hatchSteps": 10240,
-            "babyDbSymbol": "keldeo",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "justified",
-                "justified",
-                "justified"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0647_01",
-                "iconShiny": "0647_01",
-                "front": "0647_01",
-                "back": "0647_01",
-                "frontShiny": "0647_01",
-                "backShiny": "0647_01",
-                "frontF": "0647f_01",
-                "backF": "0647f_01",
-                "frontShinyF": "0647f_01",
-                "backShinyF": "0647f_01",
-                "footprint": "0647_01",
-                "character": "0647_01",
-                "characterF": "0647f_01",
-                "characterShiny": "0647s_01",
-                "characterShinyF": "0647fs_01",
-                "cry": "0647cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "justified",
+        "justified",
+        "justified"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0647_00",
+        "iconShiny": "0647_00",
+        "front": "0647_00",
+        "back": "0647_00",
+        "frontShiny": "0647_00",
+        "backShiny": "0647_00",
+        "frontF": "0647f_00",
+        "backF": "0647f_00",
+        "frontShinyF": "0647f_00",
+        "backShinyF": "0647f_00",
+        "footprint": "0647_00",
+        "character": "0647_00",
+        "characterF": "0647f_00",
+        "characterShiny": "0647s_00",
+        "characterShinyF": "0647fs_00",
+        "cry": "0647cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 1.4,
+      "weight": 48.5,
+      "type1": "water",
+      "type2": "fighting",
+      "baseHp": 91,
+      "baseAtk": 72,
+      "baseDfe": 90,
+      "baseAts": 129,
+      "baseDfs": 90,
+      "baseSpd": 108,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 3,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 290,
+      "baseLoyalty": 35,
+      "catchRate": 3,
+      "femaleRate": -1,
+      "breedGroups": [
+        15,
+        0
+      ],
+      "hatchSteps": 10240,
+      "babyDbSymbol": "keldeo",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "justified",
+        "justified",
+        "justified"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0647_01",
+        "iconShiny": "0647_01",
+        "front": "0647_01",
+        "back": "0647_01",
+        "frontShiny": "0647_01",
+        "backShiny": "0647_01",
+        "frontF": "0647f_01",
+        "backF": "0647f_01",
+        "frontShinyF": "0647f_01",
+        "backShinyF": "0647f_01",
+        "footprint": "0647_01",
+        "character": "0647_01",
+        "characterF": "0647f_01",
+        "characterShiny": "0647s_01",
+        "characterShinyF": "0647fs_01",
+        "cry": "0647cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

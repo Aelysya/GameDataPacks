@@ -1,143 +1,143 @@
 {
-    "klass": "Specie",
-    "id": 754,
-    "symbol": "lurantis",
-    "forms": [
+  "klass": "Specie",
+  "id": 754,
+  "dbSymbol": "lurantis",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.9,
+      "weight": 18.5,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 70,
+      "baseAtk": 105,
+      "baseDfe": 90,
+      "baseAts": 80,
+      "baseDfs": 90,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 168,
+      "baseLoyalty": 50,
+      "catchRate": 75,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        7,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "lurantis",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 0.9,
-            "weight": 18.5,
-            "type1": "grass",
-            "type2": "__undef__",
-            "baseHp": 70,
-            "baseAtk": 105,
-            "baseDfe": 90,
-            "baseAts": 80,
-            "baseDfs": 90,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 168,
-            "baseLoyalty": 50,
-            "catchRate": 75,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                7,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "lurantis",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "leaf_guard",
-                "leaf_guard",
-                "contrary"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0754_00",
-                "iconShiny": "0754_00",
-                "front": "0754_00",
-                "back": "0754_00",
-                "frontShiny": "0754_00",
-                "backShiny": "0754_00",
-                "frontF": "0754f_00",
-                "backF": "0754f_00",
-                "frontShinyF": "0754f_00",
-                "backShinyF": "0754f_00",
-                "footprint": "0754_00",
-                "character": "0754_00",
-                "characterF": "0754f_00",
-                "characterShiny": "0754s_00",
-                "characterShinyF": "0754fs_00",
-                "cry": "0754cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 1.5,
-            "weight": 58.0,
-            "type1": "grass",
-            "type2": "__undef__",
-            "baseHp": 70,
-            "baseAtk": 105,
-            "baseDfe": 90,
-            "baseAts": 80,
-            "baseDfs": 90,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 168,
-            "baseLoyalty": 50,
-            "catchRate": 75,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                7,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "lurantis",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "leaf_guard",
-                "leaf_guard",
-                "contrary"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0754_01",
-                "iconShiny": "0754_01",
-                "front": "0754_01",
-                "back": "0754_01",
-                "frontShiny": "0754_01",
-                "backShiny": "0754_01",
-                "frontF": "0754f_01",
-                "backF": "0754f_01",
-                "frontShinyF": "0754f_01",
-                "backShinyF": "0754f_01",
-                "footprint": "0754_01",
-                "character": "0754_01",
-                "characterF": "0754f_01",
-                "characterShiny": "0754s_01",
-                "characterShinyF": "0754fs_01",
-                "cry": "0754cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "leaf_guard",
+        "leaf_guard",
+        "contrary"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0754_00",
+        "iconShiny": "0754_00",
+        "front": "0754_00",
+        "back": "0754_00",
+        "frontShiny": "0754_00",
+        "backShiny": "0754_00",
+        "frontF": "0754f_00",
+        "backF": "0754f_00",
+        "frontShinyF": "0754f_00",
+        "backShinyF": "0754f_00",
+        "footprint": "0754_00",
+        "character": "0754_00",
+        "characterF": "0754f_00",
+        "characterShiny": "0754s_00",
+        "characterShinyF": "0754fs_00",
+        "cry": "0754cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 1.5,
+      "weight": 58.0,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 70,
+      "baseAtk": 105,
+      "baseDfe": 90,
+      "baseAts": 80,
+      "baseDfs": 90,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 168,
+      "baseLoyalty": 50,
+      "catchRate": 75,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        7,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "lurantis",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "leaf_guard",
+        "leaf_guard",
+        "contrary"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0754_01",
+        "iconShiny": "0754_01",
+        "front": "0754_01",
+        "back": "0754_01",
+        "frontShiny": "0754_01",
+        "backShiny": "0754_01",
+        "frontF": "0754f_01",
+        "backF": "0754f_01",
+        "frontShinyF": "0754f_01",
+        "backShinyF": "0754f_01",
+        "footprint": "0754_01",
+        "character": "0754_01",
+        "characterF": "0754f_01",
+        "characterShiny": "0754s_01",
+        "characterShinyF": "0754fs_01",
+        "cry": "0754cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

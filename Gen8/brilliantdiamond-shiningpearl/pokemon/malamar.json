@@ -1,75 +1,75 @@
 {
-    "klass": "Specie",
-    "id": 687,
-    "symbol": "malamar",
-    "forms": [
+  "klass": "Specie",
+  "id": 687,
+  "dbSymbol": "malamar",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 47.0,
+      "type1": "dark",
+      "type2": "psychic",
+      "baseHp": 86,
+      "baseAtk": 92,
+      "baseDfe": 88,
+      "baseAts": 68,
+      "baseDfs": 75,
+      "baseSpd": 73,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 169,
+      "baseLoyalty": 50,
+      "catchRate": 80,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        2,
+        12
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "malamar",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.5,
-            "weight": 47.0,
-            "type1": "dark",
-            "type2": "psychic",
-            "baseHp": 86,
-            "baseAtk": 92,
-            "baseDfe": 88,
-            "baseAts": 68,
-            "baseDfs": 75,
-            "baseSpd": 73,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 169,
-            "baseLoyalty": 50,
-            "catchRate": 80,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                2,
-                12
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "malamar",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "contrary",
-                "suction_cups",
-                "infiltrator"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0687_00",
-                "iconShiny": "0687_00",
-                "front": "0687_00",
-                "back": "0687_00",
-                "frontShiny": "0687_00",
-                "backShiny": "0687_00",
-                "frontF": "0687f_00",
-                "backF": "0687f_00",
-                "frontShinyF": "0687f_00",
-                "backShinyF": "0687f_00",
-                "footprint": "0687_00",
-                "character": "0687_00",
-                "characterF": "0687f_00",
-                "characterShiny": "0687s_00",
-                "characterShinyF": "0687fs_00",
-                "cry": "0687cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "contrary",
+        "suction_cups",
+        "infiltrator"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0687_00",
+        "iconShiny": "0687_00",
+        "front": "0687_00",
+        "back": "0687_00",
+        "frontShiny": "0687_00",
+        "backShiny": "0687_00",
+        "frontF": "0687f_00",
+        "backF": "0687f_00",
+        "frontShinyF": "0687f_00",
+        "backShinyF": "0687f_00",
+        "footprint": "0687_00",
+        "character": "0687_00",
+        "characterF": "0687f_00",
+        "characterShiny": "0687s_00",
+        "characterShinyF": "0687fs_00",
+        "cry": "0687cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

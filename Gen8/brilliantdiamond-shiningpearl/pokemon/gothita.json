@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 574,
-    "symbol": "gothita",
-    "forms": [
+  "klass": "Specie",
+  "id": 574,
+  "dbSymbol": "gothita",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 5.8,
+      "type1": "psychic",
+      "type2": "__undef__",
+      "baseHp": 45,
+      "baseAtk": 30,
+      "baseDfe": 50,
+      "baseAts": 55,
+      "baseDfs": 65,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 1,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.4,
-            "weight": 5.8,
-            "type1": "psychic",
-            "type2": "__undef__",
-            "baseHp": 45,
-            "baseAtk": 30,
-            "baseDfe": 50,
-            "baseAts": 55,
-            "baseDfs": 65,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 1,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "gothorita",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 32
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 58,
-            "baseLoyalty": 50,
-            "catchRate": 200,
-            "femaleRate": 75.0,
-            "breedGroups": [
-                8,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "gothita",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "frisk",
-                "competitive",
-                "shadow_tag"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0574_00",
-                "iconShiny": "0574_00",
-                "front": "0574_00",
-                "back": "0574_00",
-                "frontShiny": "0574_00",
-                "backShiny": "0574_00",
-                "frontF": "0574f_00",
-                "backF": "0574f_00",
-                "frontShinyF": "0574f_00",
-                "backShinyF": "0574f_00",
-                "footprint": "0574_00",
-                "character": "0574_00",
-                "characterF": "0574f_00",
-                "characterShiny": "0574s_00",
-                "characterShinyF": "0574fs_00",
-                "cry": "0574cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "gothorita",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 32
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 3,
+      "baseExperience": 58,
+      "baseLoyalty": 50,
+      "catchRate": 200,
+      "femaleRate": 75.0,
+      "breedGroups": [
+        8,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "gothita",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "frisk",
+        "competitive",
+        "shadow_tag"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0574_00",
+        "iconShiny": "0574_00",
+        "front": "0574_00",
+        "back": "0574_00",
+        "frontShiny": "0574_00",
+        "backShiny": "0574_00",
+        "frontF": "0574f_00",
+        "backF": "0574f_00",
+        "frontShinyF": "0574f_00",
+        "backShinyF": "0574f_00",
+        "footprint": "0574_00",
+        "character": "0574_00",
+        "characterF": "0574f_00",
+        "characterShiny": "0574s_00",
+        "characterShinyF": "0574fs_00",
+        "cry": "0574cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

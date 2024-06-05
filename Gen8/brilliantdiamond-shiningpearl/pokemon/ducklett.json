@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 580,
-    "symbol": "ducklett",
-    "forms": [
+  "klass": "Specie",
+  "id": 580,
+  "dbSymbol": "ducklett",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 5.5,
+      "type1": "water",
+      "type2": "flying",
+      "baseHp": 62,
+      "baseAtk": 44,
+      "baseDfe": 50,
+      "baseAts": 44,
+      "baseDfs": 50,
+      "baseSpd": 55,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.5,
-            "weight": 5.5,
-            "type1": "water",
-            "type2": "flying",
-            "baseHp": 62,
-            "baseAtk": 44,
-            "baseDfe": 50,
-            "baseAts": 44,
-            "baseDfs": 50,
-            "baseSpd": 55,
-            "evHp": 1,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "swanna",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 35
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 61,
-            "baseLoyalty": 70,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                2,
-                4
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "ducklett",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "keen_eye",
-                "big_pecks",
-                "hydration"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0580_00",
-                "iconShiny": "0580_00",
-                "front": "0580_00",
-                "back": "0580_00",
-                "frontShiny": "0580_00",
-                "backShiny": "0580_00",
-                "frontF": "0580f_00",
-                "backF": "0580f_00",
-                "frontShinyF": "0580f_00",
-                "backShinyF": "0580f_00",
-                "footprint": "0580_00",
-                "character": "0580_00",
-                "characterF": "0580f_00",
-                "characterShiny": "0580s_00",
-                "characterShinyF": "0580fs_00",
-                "cry": "0580cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "swanna",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 35
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 61,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        2,
+        4
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "ducklett",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "keen_eye",
+        "big_pecks",
+        "hydration"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0580_00",
+        "iconShiny": "0580_00",
+        "front": "0580_00",
+        "back": "0580_00",
+        "frontShiny": "0580_00",
+        "backShiny": "0580_00",
+        "frontF": "0580f_00",
+        "backF": "0580f_00",
+        "frontShinyF": "0580f_00",
+        "backShinyF": "0580f_00",
+        "footprint": "0580_00",
+        "character": "0580_00",
+        "characterF": "0580f_00",
+        "characterShiny": "0580s_00",
+        "characterShinyF": "0580fs_00",
+        "cry": "0580cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

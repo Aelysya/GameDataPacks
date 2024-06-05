@@ -1,75 +1,75 @@
 {
-    "klass": "Specie",
-    "id": 715,
-    "symbol": "noivern",
-    "forms": [
+  "klass": "Specie",
+  "id": 715,
+  "dbSymbol": "noivern",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 85.0,
+      "type1": "flying",
+      "type2": "dragon",
+      "baseHp": 85,
+      "baseAtk": 70,
+      "baseDfe": 80,
+      "baseAts": 97,
+      "baseDfs": 80,
+      "baseSpd": 123,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 2,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 187,
+      "baseLoyalty": 50,
+      "catchRate": 45,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        4,
+        14
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "noivern",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.5,
-            "weight": 85.0,
-            "type1": "flying",
-            "type2": "dragon",
-            "baseHp": 85,
-            "baseAtk": 70,
-            "baseDfe": 80,
-            "baseAts": 97,
-            "baseDfs": 80,
-            "baseSpd": 123,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 2,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 187,
-            "baseLoyalty": 50,
-            "catchRate": 45,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                4,
-                14
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "noivern",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "frisk",
-                "infiltrator",
-                "telepathy"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0715_00",
-                "iconShiny": "0715_00",
-                "front": "0715_00",
-                "back": "0715_00",
-                "frontShiny": "0715_00",
-                "backShiny": "0715_00",
-                "frontF": "0715f_00",
-                "backF": "0715f_00",
-                "frontShinyF": "0715f_00",
-                "backShinyF": "0715f_00",
-                "footprint": "0715_00",
-                "character": "0715_00",
-                "characterF": "0715f_00",
-                "characterShiny": "0715s_00",
-                "characterShinyF": "0715fs_00",
-                "cry": "0715cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "frisk",
+        "infiltrator",
+        "telepathy"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0715_00",
+        "iconShiny": "0715_00",
+        "front": "0715_00",
+        "back": "0715_00",
+        "frontShiny": "0715_00",
+        "backShiny": "0715_00",
+        "frontF": "0715f_00",
+        "backF": "0715f_00",
+        "frontShinyF": "0715f_00",
+        "backShinyF": "0715f_00",
+        "footprint": "0715_00",
+        "character": "0715_00",
+        "characterF": "0715f_00",
+        "characterShiny": "0715s_00",
+        "characterShinyF": "0715fs_00",
+        "cry": "0715cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

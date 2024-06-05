@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 712,
-    "symbol": "bergmite",
-    "forms": [
+  "klass": "Specie",
+  "id": 712,
+  "dbSymbol": "bergmite",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.0,
+      "weight": 99.5,
+      "type1": "ice",
+      "type2": "__undef__",
+      "baseHp": 55,
+      "baseAtk": 69,
+      "baseDfe": 85,
+      "baseAts": 32,
+      "baseDfs": 35,
+      "baseSpd": 28,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 1.0,
-            "weight": 99.5,
-            "type1": "ice",
-            "type2": "__undef__",
-            "baseHp": 55,
-            "baseAtk": 69,
-            "baseDfe": 85,
-            "baseAts": 32,
-            "baseDfs": 35,
-            "baseSpd": 28,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 1,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "avalugg",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 37
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 61,
-            "baseLoyalty": 50,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                1,
-                10
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "bergmite",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "own_tempo",
-                "ice_body",
-                "sturdy"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0712_00",
-                "iconShiny": "0712_00",
-                "front": "0712_00",
-                "back": "0712_00",
-                "frontShiny": "0712_00",
-                "backShiny": "0712_00",
-                "frontF": "0712f_00",
-                "backF": "0712f_00",
-                "frontShinyF": "0712f_00",
-                "backShinyF": "0712f_00",
-                "footprint": "0712_00",
-                "character": "0712_00",
-                "characterF": "0712f_00",
-                "characterShiny": "0712s_00",
-                "characterShinyF": "0712fs_00",
-                "cry": "0712cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "avalugg",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 37
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 61,
+      "baseLoyalty": 50,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        1,
+        10
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "bergmite",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "own_tempo",
+        "ice_body",
+        "sturdy"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0712_00",
+        "iconShiny": "0712_00",
+        "front": "0712_00",
+        "back": "0712_00",
+        "frontShiny": "0712_00",
+        "backShiny": "0712_00",
+        "frontF": "0712f_00",
+        "backF": "0712f_00",
+        "frontShinyF": "0712f_00",
+        "backShinyF": "0712f_00",
+        "footprint": "0712_00",
+        "character": "0712_00",
+        "characterF": "0712f_00",
+        "characterShiny": "0712s_00",
+        "characterShinyF": "0712fs_00",
+        "cry": "0712cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

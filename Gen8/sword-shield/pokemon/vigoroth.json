@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 288,
-    "symbol": "vigoroth",
-    "forms": [
+  "klass": "Specie",
+  "id": 288,
+  "dbSymbol": "vigoroth",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.4,
+      "weight": 46.5,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 80,
+      "baseAtk": 80,
+      "baseDfe": 80,
+      "baseAts": 55,
+      "baseDfs": 55,
+      "baseSpd": 90,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 2,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 1.4,
-            "weight": 46.5,
-            "type1": "normal",
-            "type2": "__undef__",
-            "baseHp": 80,
-            "baseAtk": 80,
-            "baseDfe": 80,
-            "baseAts": 55,
-            "baseDfs": 55,
-            "baseSpd": 90,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 2,
-            "evolutions": [
-                {
-                    "dbSymbol": "slaking",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 36
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 2,
-            "baseExperience": 154,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "slakoth",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "vital_spirit",
-                "vital_spirit",
-                "vital_spirit"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0288_00",
-                "iconShiny": "0288_00",
-                "front": "0288_00",
-                "back": "0288_00",
-                "frontShiny": "0288_00",
-                "backShiny": "0288_00",
-                "frontF": "0288f_00",
-                "backF": "0288f_00",
-                "frontShinyF": "0288f_00",
-                "backShinyF": "0288f_00",
-                "footprint": "0288_00",
-                "character": "0288_00",
-                "characterF": "0288f_00",
-                "characterShiny": "0288s_00",
-                "characterShinyF": "0288fs_00",
-                "cry": "0288cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "slaking",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 36
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 2,
+      "baseExperience": 154,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "slakoth",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "vital_spirit",
+        "vital_spirit",
+        "vital_spirit"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0288_00",
+        "iconShiny": "0288_00",
+        "front": "0288_00",
+        "back": "0288_00",
+        "frontShiny": "0288_00",
+        "backShiny": "0288_00",
+        "frontF": "0288f_00",
+        "backF": "0288f_00",
+        "frontShinyF": "0288f_00",
+        "backShinyF": "0288f_00",
+        "footprint": "0288_00",
+        "character": "0288_00",
+        "characterF": "0288f_00",
+        "characterShiny": "0288s_00",
+        "characterShinyF": "0288fs_00",
+        "cry": "0288cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 552,
-    "symbol": "krokorok",
-    "forms": [
+  "klass": "Specie",
+  "id": 552,
+  "dbSymbol": "krokorok",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.0,
+      "weight": 33.4,
+      "type1": "ground",
+      "type2": "dark",
+      "baseHp": 60,
+      "baseAtk": 82,
+      "baseDfe": 45,
+      "baseAts": 45,
+      "baseDfs": 45,
+      "baseSpd": 74,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 1.0,
-            "weight": 33.4,
-            "type1": "ground",
-            "type2": "dark",
-            "baseHp": 60,
-            "baseAtk": 82,
-            "baseDfe": 45,
-            "baseAts": 45,
-            "baseDfs": 45,
-            "baseSpd": 74,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "krookodile",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 40
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 123,
-            "baseLoyalty": 50,
-            "catchRate": 90,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "sandile",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "intimidate",
-                "moxie",
-                "anger_point"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0552_00",
-                "iconShiny": "0552_00",
-                "front": "0552_00",
-                "back": "0552_00",
-                "frontShiny": "0552_00",
-                "backShiny": "0552_00",
-                "frontF": "0552f_00",
-                "backF": "0552f_00",
-                "frontShinyF": "0552f_00",
-                "backShinyF": "0552f_00",
-                "footprint": "0552_00",
-                "character": "0552_00",
-                "characterF": "0552f_00",
-                "characterShiny": "0552s_00",
-                "characterShinyF": "0552fs_00",
-                "cry": "0552cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "krookodile",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 40
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 3,
+      "baseExperience": 123,
+      "baseLoyalty": 50,
+      "catchRate": 90,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "sandile",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "intimidate",
+        "moxie",
+        "anger_point"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0552_00",
+        "iconShiny": "0552_00",
+        "front": "0552_00",
+        "back": "0552_00",
+        "frontShiny": "0552_00",
+        "backShiny": "0552_00",
+        "frontF": "0552f_00",
+        "backF": "0552f_00",
+        "frontShinyF": "0552f_00",
+        "backShinyF": "0552f_00",
+        "footprint": "0552_00",
+        "character": "0552_00",
+        "characterF": "0552f_00",
+        "characterShiny": "0552s_00",
+        "characterShinyF": "0552fs_00",
+        "cry": "0552cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

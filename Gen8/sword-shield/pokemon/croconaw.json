@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 159,
-    "symbol": "croconaw",
-    "forms": [
+  "klass": "Specie",
+  "id": 159,
+  "dbSymbol": "croconaw",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.1,
+      "weight": 25.0,
+      "type1": "water",
+      "type2": "__undef__",
+      "baseHp": 65,
+      "baseAtk": 80,
+      "baseDfe": 80,
+      "baseAts": 59,
+      "baseDfs": 63,
+      "baseSpd": 58,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 1.1,
-            "weight": 25.0,
-            "type1": "water",
-            "type2": "__undef__",
-            "baseHp": 65,
-            "baseAtk": 80,
-            "baseDfe": 80,
-            "baseAts": 59,
-            "baseDfs": 63,
-            "baseSpd": 58,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 1,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "feraligatr",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 30
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 142,
-            "baseLoyalty": 70,
-            "catchRate": 45,
-            "femaleRate": 12.5,
-            "breedGroups": [
-                1,
-                2
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "totodile",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "torrent",
-                "torrent",
-                "sheer_force"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0159_00",
-                "iconShiny": "0159_00",
-                "front": "0159_00",
-                "back": "0159_00",
-                "frontShiny": "0159_00",
-                "backShiny": "0159_00",
-                "frontF": "0159f_00",
-                "backF": "0159f_00",
-                "frontShinyF": "0159f_00",
-                "backShinyF": "0159f_00",
-                "footprint": "0159_00",
-                "character": "0159_00",
-                "characterF": "0159f_00",
-                "characterShiny": "0159s_00",
-                "characterShinyF": "0159fs_00",
-                "cry": "0159cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "feraligatr",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 30
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 3,
+      "baseExperience": 142,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 12.5,
+      "breedGroups": [
+        1,
+        2
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "totodile",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "torrent",
+        "torrent",
+        "sheer_force"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0159_00",
+        "iconShiny": "0159_00",
+        "front": "0159_00",
+        "back": "0159_00",
+        "frontShiny": "0159_00",
+        "backShiny": "0159_00",
+        "frontF": "0159f_00",
+        "backF": "0159f_00",
+        "frontShinyF": "0159f_00",
+        "backShinyF": "0159f_00",
+        "footprint": "0159_00",
+        "character": "0159_00",
+        "characterF": "0159f_00",
+        "characterShiny": "0159s_00",
+        "characterShinyF": "0159fs_00",
+        "cry": "0159cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 732,
-    "symbol": "trumbeak",
-    "forms": [
+  "klass": "Specie",
+  "id": 732,
+  "dbSymbol": "trumbeak",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.6,
+      "weight": 14.8,
+      "type1": "normal",
+      "type2": "flying",
+      "baseHp": 55,
+      "baseAtk": 85,
+      "baseDfe": 50,
+      "baseAts": 40,
+      "baseDfs": 50,
+      "baseSpd": 75,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.6,
-            "weight": 14.8,
-            "type1": "normal",
-            "type2": "flying",
-            "baseHp": 55,
-            "baseAtk": 85,
-            "baseDfe": 50,
-            "baseAts": 40,
-            "baseDfs": 50,
-            "baseSpd": 75,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "toucannon",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 28
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 124,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                4,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "pikipek",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "keen_eye",
-                "skill_link",
-                "pickup"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0732_00",
-                "iconShiny": "0732_00",
-                "front": "0732_00",
-                "back": "0732_00",
-                "frontShiny": "0732_00",
-                "backShiny": "0732_00",
-                "frontF": "0732f_00",
-                "backF": "0732f_00",
-                "frontShinyF": "0732f_00",
-                "backShinyF": "0732f_00",
-                "footprint": "0732_00",
-                "character": "0732_00",
-                "characterF": "0732f_00",
-                "characterShiny": "0732s_00",
-                "characterShinyF": "0732fs_00",
-                "cry": "0732cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "toucannon",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 28
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 124,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        4,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "pikipek",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "keen_eye",
+        "skill_link",
+        "pickup"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0732_00",
+        "iconShiny": "0732_00",
+        "front": "0732_00",
+        "back": "0732_00",
+        "frontShiny": "0732_00",
+        "backShiny": "0732_00",
+        "frontF": "0732f_00",
+        "backF": "0732f_00",
+        "frontShinyF": "0732f_00",
+        "backShinyF": "0732f_00",
+        "footprint": "0732_00",
+        "character": "0732_00",
+        "characterF": "0732f_00",
+        "characterShiny": "0732s_00",
+        "characterShinyF": "0732fs_00",
+        "cry": "0732cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

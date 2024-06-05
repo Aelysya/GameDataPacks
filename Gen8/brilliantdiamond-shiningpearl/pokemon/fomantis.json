@@ -1,90 +1,90 @@
 {
-    "klass": "Specie",
-    "id": 753,
-    "symbol": "fomantis",
-    "forms": [
+  "klass": "Specie",
+  "id": 753,
+  "dbSymbol": "fomantis",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 1.5,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 40,
+      "baseAtk": 55,
+      "baseDfe": 35,
+      "baseAts": 50,
+      "baseDfs": 35,
+      "baseSpd": 35,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.3,
-            "weight": 1.5,
-            "type1": "grass",
-            "type2": "__undef__",
-            "baseHp": 40,
-            "baseAtk": 55,
-            "baseDfe": 35,
-            "baseAts": 50,
-            "baseDfs": 35,
-            "baseSpd": 35,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "lurantis",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 34
-                        },
-                        {
-                            "type": "dayNight",
-                            "value": 3
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 50,
-            "baseLoyalty": 50,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                7,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "fomantis",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "leaf_guard",
-                "leaf_guard",
-                "contrary"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0753_00",
-                "iconShiny": "0753_00",
-                "front": "0753_00",
-                "back": "0753_00",
-                "frontShiny": "0753_00",
-                "backShiny": "0753_00",
-                "frontF": "0753f_00",
-                "backF": "0753f_00",
-                "frontShinyF": "0753f_00",
-                "backShinyF": "0753f_00",
-                "footprint": "0753_00",
-                "character": "0753_00",
-                "characterF": "0753f_00",
-                "characterShiny": "0753s_00",
-                "characterShinyF": "0753fs_00",
-                "cry": "0753cry_00.ogg",
-                "hasFemale": false
+          "dbSymbol": "lurantis",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 34
             },
-            "moveSet": []
+            {
+              "type": "dayNight",
+              "value": 3
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 50,
+      "baseLoyalty": 50,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        7,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "fomantis",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "leaf_guard",
+        "leaf_guard",
+        "contrary"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0753_00",
+        "iconShiny": "0753_00",
+        "front": "0753_00",
+        "back": "0753_00",
+        "frontShiny": "0753_00",
+        "backShiny": "0753_00",
+        "frontF": "0753f_00",
+        "backF": "0753f_00",
+        "frontShinyF": "0753f_00",
+        "backShinyF": "0753f_00",
+        "footprint": "0753_00",
+        "character": "0753_00",
+        "characterF": "0753f_00",
+        "characterShiny": "0753s_00",
+        "characterShinyF": "0753fs_00",
+        "cry": "0753cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

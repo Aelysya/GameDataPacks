@@ -1,143 +1,143 @@
 {
-    "klass": "Specie",
-    "id": 641,
-    "symbol": "tornadus",
-    "forms": [
+  "klass": "Specie",
+  "id": 641,
+  "dbSymbol": "tornadus",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 63.0,
+      "type1": "flying",
+      "type2": "__undef__",
+      "baseHp": 79,
+      "baseAtk": 115,
+      "baseDfe": 70,
+      "baseAts": 125,
+      "baseDfs": 80,
+      "baseSpd": 111,
+      "evHp": 0,
+      "evAtk": 3,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 290,
+      "baseLoyalty": 90,
+      "catchRate": 3,
+      "femaleRate": 0.0,
+      "breedGroups": [
+        15,
+        0
+      ],
+      "hatchSteps": 15360,
+      "babyDbSymbol": "tornadus",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.5,
-            "weight": 63.0,
-            "type1": "flying",
-            "type2": "__undef__",
-            "baseHp": 79,
-            "baseAtk": 115,
-            "baseDfe": 70,
-            "baseAts": 125,
-            "baseDfs": 80,
-            "baseSpd": 111,
-            "evHp": 0,
-            "evAtk": 3,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 290,
-            "baseLoyalty": 90,
-            "catchRate": 3,
-            "femaleRate": 0.0,
-            "breedGroups": [
-                15,
-                0
-            ],
-            "hatchSteps": 15360,
-            "babyDbSymbol": "tornadus",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "prankster",
-                "prankster",
-                "defiant"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0641_00",
-                "iconShiny": "0641_00",
-                "front": "0641_00",
-                "back": "0641_00",
-                "frontShiny": "0641_00",
-                "backShiny": "0641_00",
-                "frontF": "0641f_00",
-                "backF": "0641f_00",
-                "frontShinyF": "0641f_00",
-                "backShinyF": "0641f_00",
-                "footprint": "0641_00",
-                "character": "0641_00",
-                "characterF": "0641f_00",
-                "characterShiny": "0641s_00",
-                "characterShinyF": "0641fs_00",
-                "cry": "0641cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 1.4,
-            "weight": 63.0,
-            "type1": "flying",
-            "type2": "__undef__",
-            "baseHp": 79,
-            "baseAtk": 100,
-            "baseDfe": 80,
-            "baseAts": 110,
-            "baseDfs": 90,
-            "baseSpd": 121,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 3,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 290,
-            "baseLoyalty": 90,
-            "catchRate": 3,
-            "femaleRate": 0.0,
-            "breedGroups": [
-                15,
-                0
-            ],
-            "hatchSteps": 15360,
-            "babyDbSymbol": "tornadus",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "regenerator",
-                "regenerator",
-                "regenerator"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0641_01",
-                "iconShiny": "0641_01",
-                "front": "0641_01",
-                "back": "0641_01",
-                "frontShiny": "0641_01",
-                "backShiny": "0641_01",
-                "frontF": "0641f_01",
-                "backF": "0641f_01",
-                "frontShinyF": "0641f_01",
-                "backShinyF": "0641f_01",
-                "footprint": "0641_01",
-                "character": "0641_01",
-                "characterF": "0641f_01",
-                "characterShiny": "0641s_01",
-                "characterShinyF": "0641fs_01",
-                "cry": "0641cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "prankster",
+        "prankster",
+        "defiant"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0641_00",
+        "iconShiny": "0641_00",
+        "front": "0641_00",
+        "back": "0641_00",
+        "frontShiny": "0641_00",
+        "backShiny": "0641_00",
+        "frontF": "0641f_00",
+        "backF": "0641f_00",
+        "frontShinyF": "0641f_00",
+        "backShinyF": "0641f_00",
+        "footprint": "0641_00",
+        "character": "0641_00",
+        "characterF": "0641f_00",
+        "characterShiny": "0641s_00",
+        "characterShinyF": "0641fs_00",
+        "cry": "0641cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 1.4,
+      "weight": 63.0,
+      "type1": "flying",
+      "type2": "__undef__",
+      "baseHp": 79,
+      "baseAtk": 100,
+      "baseDfe": 80,
+      "baseAts": 110,
+      "baseDfs": 90,
+      "baseSpd": 121,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 3,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 290,
+      "baseLoyalty": 90,
+      "catchRate": 3,
+      "femaleRate": 0.0,
+      "breedGroups": [
+        15,
+        0
+      ],
+      "hatchSteps": 15360,
+      "babyDbSymbol": "tornadus",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "regenerator",
+        "regenerator",
+        "regenerator"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0641_01",
+        "iconShiny": "0641_01",
+        "front": "0641_01",
+        "back": "0641_01",
+        "frontShiny": "0641_01",
+        "backShiny": "0641_01",
+        "frontF": "0641f_01",
+        "backF": "0641f_01",
+        "frontShinyF": "0641f_01",
+        "backShinyF": "0641f_01",
+        "footprint": "0641_01",
+        "character": "0641_01",
+        "characterF": "0641f_01",
+        "characterShiny": "0641s_01",
+        "characterShinyF": "0641fs_01",
+        "cry": "0641cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

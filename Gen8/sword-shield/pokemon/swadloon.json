@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 541,
-    "symbol": "swadloon",
-    "forms": [
+  "klass": "Specie",
+  "id": 541,
+  "dbSymbol": "swadloon",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 7.3,
+      "type1": "bug",
+      "type2": "grass",
+      "baseHp": 55,
+      "baseAtk": 63,
+      "baseDfe": 90,
+      "baseAts": 50,
+      "baseDfs": 80,
+      "baseSpd": 42,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.5,
-            "weight": 7.3,
-            "type1": "bug",
-            "type2": "grass",
-            "baseHp": 55,
-            "baseAtk": 63,
-            "baseDfe": 90,
-            "baseAts": 50,
-            "baseDfs": 80,
-            "baseSpd": 42,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 2,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "leavanny",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLoyalty",
-                            "value": 220
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 133,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                3,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "sewaddle",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "leaf_guard",
-                "chlorophyll",
-                "overcoat"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0541_00",
-                "iconShiny": "0541_00",
-                "front": "0541_00",
-                "back": "0541_00",
-                "frontShiny": "0541_00",
-                "backShiny": "0541_00",
-                "frontF": "0541f_00",
-                "backF": "0541f_00",
-                "frontShinyF": "0541f_00",
-                "backShinyF": "0541f_00",
-                "footprint": "0541_00",
-                "character": "0541_00",
-                "characterF": "0541f_00",
-                "characterShiny": "0541s_00",
-                "characterShinyF": "0541fs_00",
-                "cry": "0541cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "leavanny",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLoyalty",
+              "value": 220
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 3,
+      "baseExperience": 133,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        3,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "sewaddle",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "leaf_guard",
+        "chlorophyll",
+        "overcoat"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0541_00",
+        "iconShiny": "0541_00",
+        "front": "0541_00",
+        "back": "0541_00",
+        "frontShiny": "0541_00",
+        "backShiny": "0541_00",
+        "frontF": "0541f_00",
+        "backF": "0541f_00",
+        "frontShinyF": "0541f_00",
+        "backShinyF": "0541f_00",
+        "footprint": "0541_00",
+        "character": "0541_00",
+        "characterF": "0541f_00",
+        "characterShiny": "0541s_00",
+        "characterShinyF": "0541fs_00",
+        "cry": "0541cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

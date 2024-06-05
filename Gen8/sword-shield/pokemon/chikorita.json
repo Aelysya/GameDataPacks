@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 152,
-    "symbol": "chikorita",
-    "forms": [
+  "klass": "Specie",
+  "id": 152,
+  "dbSymbol": "chikorita",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.9,
+      "weight": 6.4,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 45,
+      "baseAtk": 49,
+      "baseDfe": 65,
+      "baseAts": 49,
+      "baseDfs": 65,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 1,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.9,
-            "weight": 6.4,
-            "type1": "grass",
-            "type2": "__undef__",
-            "baseHp": 45,
-            "baseAtk": 49,
-            "baseDfe": 65,
-            "baseAts": 49,
-            "baseDfs": 65,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 1,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "bayleef",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 16
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 64,
-            "baseLoyalty": 70,
-            "catchRate": 45,
-            "femaleRate": 12.5,
-            "breedGroups": [
-                1,
-                7
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "chikorita",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "overgrow",
-                "overgrow",
-                "leaf_guard"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0152_00",
-                "iconShiny": "0152_00",
-                "front": "0152_00",
-                "back": "0152_00",
-                "frontShiny": "0152_00",
-                "backShiny": "0152_00",
-                "frontF": "0152f_00",
-                "backF": "0152f_00",
-                "frontShinyF": "0152f_00",
-                "backShinyF": "0152f_00",
-                "footprint": "0152_00",
-                "character": "0152_00",
-                "characterF": "0152f_00",
-                "characterShiny": "0152s_00",
-                "characterShinyF": "0152fs_00",
-                "cry": "0152cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "bayleef",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 16
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 3,
+      "baseExperience": 64,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 12.5,
+      "breedGroups": [
+        1,
+        7
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "chikorita",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "overgrow",
+        "overgrow",
+        "leaf_guard"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0152_00",
+        "iconShiny": "0152_00",
+        "front": "0152_00",
+        "back": "0152_00",
+        "frontShiny": "0152_00",
+        "backShiny": "0152_00",
+        "frontF": "0152f_00",
+        "backF": "0152f_00",
+        "frontShinyF": "0152f_00",
+        "backShinyF": "0152f_00",
+        "footprint": "0152_00",
+        "character": "0152_00",
+        "characterF": "0152f_00",
+        "characterShiny": "0152s_00",
+        "characterShinyF": "0152fs_00",
+        "cry": "0152cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

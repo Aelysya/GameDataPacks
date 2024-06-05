@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 218,
-    "symbol": "slugma",
-    "forms": [
+  "klass": "Specie",
+  "id": 218,
+  "dbSymbol": "slugma",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.7,
+      "weight": 35.0,
+      "type1": "fire",
+      "type2": "__undef__",
+      "baseHp": 40,
+      "baseAtk": 40,
+      "baseDfe": 40,
+      "baseAts": 70,
+      "baseDfs": 40,
+      "baseSpd": 20,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.7,
-            "weight": 35.0,
-            "type1": "fire",
-            "type2": "__undef__",
-            "baseHp": 40,
-            "baseAtk": 40,
-            "baseDfe": 40,
-            "baseAts": 70,
-            "baseDfs": 40,
-            "baseSpd": 20,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 1,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "magcargo",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 38
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 50,
-            "baseLoyalty": 70,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                11,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "slugma",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "magma_armor",
-                "flame_body",
-                "weak_armor"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0218_00",
-                "iconShiny": "0218_00",
-                "front": "0218_00",
-                "back": "0218_00",
-                "frontShiny": "0218_00",
-                "backShiny": "0218_00",
-                "frontF": "0218f_00",
-                "backF": "0218f_00",
-                "frontShinyF": "0218f_00",
-                "backShinyF": "0218f_00",
-                "footprint": "0218_00",
-                "character": "0218_00",
-                "characterF": "0218f_00",
-                "characterShiny": "0218s_00",
-                "characterShinyF": "0218fs_00",
-                "cry": "0218cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "magcargo",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 38
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 50,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        11,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "slugma",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "magma_armor",
+        "flame_body",
+        "weak_armor"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0218_00",
+        "iconShiny": "0218_00",
+        "front": "0218_00",
+        "back": "0218_00",
+        "frontShiny": "0218_00",
+        "backShiny": "0218_00",
+        "frontF": "0218f_00",
+        "backF": "0218f_00",
+        "frontShinyF": "0218f_00",
+        "backShinyF": "0218f_00",
+        "footprint": "0218_00",
+        "character": "0218_00",
+        "characterF": "0218f_00",
+        "characterShiny": "0218s_00",
+        "characterShinyF": "0218fs_00",
+        "cry": "0218cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

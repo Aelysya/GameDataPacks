@@ -1,81 +1,81 @@
 {
-    "klass": "Specie",
-    "id": 737,
-    "symbol": "charjabug",
-    "forms": [
+  "klass": "Specie",
+  "id": 737,
+  "dbSymbol": "charjabug",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 10.5,
+      "type1": "bug",
+      "type2": "electric",
+      "baseHp": 57,
+      "baseAtk": 82,
+      "baseDfe": 95,
+      "baseAts": 55,
+      "baseDfs": 75,
+      "baseSpd": 36,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.5,
-            "weight": 10.5,
-            "type1": "bug",
-            "type2": "electric",
-            "baseHp": 57,
-            "baseAtk": 82,
-            "baseDfe": 95,
-            "baseAts": 55,
-            "baseDfs": 75,
-            "baseSpd": 36,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 2,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "vikavolt",
-                    "form": 0,
-                    "conditions": []
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 140,
-            "baseLoyalty": 50,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                3,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "grubbin",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "battery",
-                "battery",
-                "battery"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0737_00",
-                "iconShiny": "0737_00",
-                "front": "0737_00",
-                "back": "0737_00",
-                "frontShiny": "0737_00",
-                "backShiny": "0737_00",
-                "frontF": "0737f_00",
-                "backF": "0737f_00",
-                "frontShinyF": "0737f_00",
-                "backShinyF": "0737f_00",
-                "footprint": "0737_00",
-                "character": "0737_00",
-                "characterF": "0737f_00",
-                "characterShiny": "0737s_00",
-                "characterShinyF": "0737fs_00",
-                "cry": "0737cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "vikavolt",
+          "form": 0,
+          "conditions": []
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 140,
+      "baseLoyalty": 50,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        3,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "grubbin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "battery",
+        "battery",
+        "battery"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0737_00",
+        "iconShiny": "0737_00",
+        "front": "0737_00",
+        "back": "0737_00",
+        "frontShiny": "0737_00",
+        "backShiny": "0737_00",
+        "frontF": "0737f_00",
+        "backF": "0737f_00",
+        "frontShinyF": "0737f_00",
+        "backShinyF": "0737f_00",
+        "footprint": "0737_00",
+        "character": "0737_00",
+        "characterF": "0737f_00",
+        "characterShiny": "0737s_00",
+        "characterShinyF": "0737fs_00",
+        "cry": "0737cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

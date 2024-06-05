@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 751,
-    "symbol": "dewpider",
-    "forms": [
+  "klass": "Specie",
+  "id": 751,
+  "dbSymbol": "dewpider",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 4.0,
+      "type1": "water",
+      "type2": "bug",
+      "baseHp": 38,
+      "baseAtk": 40,
+      "baseDfe": 52,
+      "baseAts": 40,
+      "baseDfs": 72,
+      "baseSpd": 27,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 1,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.3,
-            "weight": 4.0,
-            "type1": "water",
-            "type2": "bug",
-            "baseHp": 38,
-            "baseAtk": 40,
-            "baseDfe": 52,
-            "baseAts": 40,
-            "baseDfs": 72,
-            "baseSpd": 27,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 1,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "araquanid",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 22
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 54,
-            "baseLoyalty": 50,
-            "catchRate": 200,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                2,
-                3
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "dewpider",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "water_bubble",
-                "water_bubble",
-                "water_absorb"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0751_00",
-                "iconShiny": "0751_00",
-                "front": "0751_00",
-                "back": "0751_00",
-                "frontShiny": "0751_00",
-                "backShiny": "0751_00",
-                "frontF": "0751f_00",
-                "backF": "0751f_00",
-                "frontShinyF": "0751f_00",
-                "backShinyF": "0751f_00",
-                "footprint": "0751_00",
-                "character": "0751_00",
-                "characterF": "0751f_00",
-                "characterShiny": "0751s_00",
-                "characterShinyF": "0751fs_00",
-                "cry": "0751cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "araquanid",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 22
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 54,
+      "baseLoyalty": 50,
+      "catchRate": 200,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        2,
+        3
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "dewpider",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "water_bubble",
+        "water_bubble",
+        "water_absorb"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0751_00",
+        "iconShiny": "0751_00",
+        "front": "0751_00",
+        "back": "0751_00",
+        "frontShiny": "0751_00",
+        "backShiny": "0751_00",
+        "frontF": "0751f_00",
+        "backF": "0751f_00",
+        "frontShinyF": "0751f_00",
+        "backShinyF": "0751f_00",
+        "footprint": "0751_00",
+        "character": "0751_00",
+        "characterF": "0751f_00",
+        "characterShiny": "0751s_00",
+        "characterShinyF": "0751fs_00",
+        "cry": "0751cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

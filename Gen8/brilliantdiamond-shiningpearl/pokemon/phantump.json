@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 708,
-    "symbol": "phantump",
-    "forms": [
+  "klass": "Specie",
+  "id": 708,
+  "dbSymbol": "phantump",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 7.0,
+      "type1": "ghost",
+      "type2": "grass",
+      "baseHp": 43,
+      "baseAtk": 70,
+      "baseDfe": 48,
+      "baseAts": 50,
+      "baseDfs": 60,
+      "baseSpd": 38,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.4,
-            "weight": 7.0,
-            "type1": "ghost",
-            "type2": "grass",
-            "baseHp": 43,
-            "baseAtk": 70,
-            "baseDfe": 48,
-            "baseAts": 50,
-            "baseDfs": 60,
-            "baseSpd": 38,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "trevenant",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "trade",
-                            "value": true
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 62,
-            "baseLoyalty": 50,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                7,
-                11
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "phantump",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "natural_cure",
-                "frisk",
-                "harvest"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0708_00",
-                "iconShiny": "0708_00",
-                "front": "0708_00",
-                "back": "0708_00",
-                "frontShiny": "0708_00",
-                "backShiny": "0708_00",
-                "frontF": "0708f_00",
-                "backF": "0708f_00",
-                "frontShinyF": "0708f_00",
-                "backShinyF": "0708f_00",
-                "footprint": "0708_00",
-                "character": "0708_00",
-                "characterF": "0708f_00",
-                "characterShiny": "0708s_00",
-                "characterShinyF": "0708fs_00",
-                "cry": "0708cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "trevenant",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "trade",
+              "value": true
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 62,
+      "baseLoyalty": 50,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        7,
+        11
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "phantump",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "natural_cure",
+        "frisk",
+        "harvest"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0708_00",
+        "iconShiny": "0708_00",
+        "front": "0708_00",
+        "back": "0708_00",
+        "frontShiny": "0708_00",
+        "backShiny": "0708_00",
+        "frontF": "0708f_00",
+        "backF": "0708f_00",
+        "frontShinyF": "0708f_00",
+        "backShinyF": "0708f_00",
+        "footprint": "0708_00",
+        "character": "0708_00",
+        "characterF": "0708f_00",
+        "characterShiny": "0708s_00",
+        "characterShinyF": "0708fs_00",
+        "cry": "0708cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

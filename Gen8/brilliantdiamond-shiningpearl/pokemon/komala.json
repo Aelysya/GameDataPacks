@@ -1,75 +1,75 @@
 {
-    "klass": "Specie",
-    "id": 775,
-    "symbol": "komala",
-    "forms": [
+  "klass": "Specie",
+  "id": 775,
+  "dbSymbol": "komala",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 19.9,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 65,
+      "baseAtk": 115,
+      "baseDfe": 65,
+      "baseAts": 75,
+      "baseDfs": 95,
+      "baseSpd": 65,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 168,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "komala",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 0.4,
-            "weight": 19.9,
-            "type1": "normal",
-            "type2": "__undef__",
-            "baseHp": 65,
-            "baseAtk": 115,
-            "baseDfe": 65,
-            "baseAts": 75,
-            "baseDfs": 95,
-            "baseSpd": 65,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 168,
-            "baseLoyalty": 70,
-            "catchRate": 45,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "komala",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "comatose",
-                "comatose",
-                "comatose"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0775_00",
-                "iconShiny": "0775_00",
-                "front": "0775_00",
-                "back": "0775_00",
-                "frontShiny": "0775_00",
-                "backShiny": "0775_00",
-                "frontF": "0775f_00",
-                "backF": "0775f_00",
-                "frontShinyF": "0775f_00",
-                "backShinyF": "0775f_00",
-                "footprint": "0775_00",
-                "character": "0775_00",
-                "characterF": "0775f_00",
-                "characterShiny": "0775s_00",
-                "characterShinyF": "0775fs_00",
-                "cry": "0775cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "comatose",
+        "comatose",
+        "comatose"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0775_00",
+        "iconShiny": "0775_00",
+        "front": "0775_00",
+        "back": "0775_00",
+        "frontShiny": "0775_00",
+        "backShiny": "0775_00",
+        "frontF": "0775f_00",
+        "backF": "0775f_00",
+        "frontShinyF": "0775f_00",
+        "backShinyF": "0775f_00",
+        "footprint": "0775_00",
+        "character": "0775_00",
+        "characterF": "0775f_00",
+        "characterShiny": "0775s_00",
+        "characterShinyF": "0775fs_00",
+        "cry": "0775cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

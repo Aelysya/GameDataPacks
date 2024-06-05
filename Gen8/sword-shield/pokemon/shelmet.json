@@ -1,269 +1,269 @@
 {
-    "klass": "Specie",
-    "id": 616,
-    "symbol": "shelmet",
-    "forms": [
+  "klass": "Specie",
+  "id": 616,
+  "dbSymbol": "shelmet",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 7.7,
+      "type1": "bug",
+      "type2": "__undef__",
+      "baseHp": 50,
+      "baseAtk": 40,
+      "baseDfe": 85,
+      "baseAts": 40,
+      "baseDfs": 65,
+      "baseSpd": 25,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.4,
-            "weight": 7.7,
-            "type1": "bug",
-            "type2": "__undef__",
-            "baseHp": 50,
-            "baseAtk": 40,
-            "baseDfe": 85,
-            "baseAts": 40,
-            "baseDfs": 65,
-            "baseSpd": 25,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 1,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "accelgor",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "tradeWith",
-                            "value": "karrablast"
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 61,
-            "baseLoyalty": 50,
-            "catchRate": 200,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                3,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "shelmet",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "hydration",
-                "shell_armor",
-                "overcoat"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0616_00",
-                "iconShiny": "0616_00",
-                "front": "0616_00",
-                "back": "0616_00",
-                "frontShiny": "0616_00",
-                "backShiny": "0616_00",
-                "frontF": "0616f_00",
-                "backF": "0616f_00",
-                "frontShinyF": "0616f_00",
-                "backShinyF": "0616f_00",
-                "footprint": "0616_00",
-                "character": "0616_00",
-                "characterF": "0616f_00",
-                "characterShiny": "0616s_00",
-                "characterShinyF": "0616fs_00",
-                "cry": "0616cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": [
-                {
-                    "move": "body_slam",
-                    "klass": "LevelLearnableMove",
-                    "level": 36
-                },
-                {
-                    "move": "body_slam",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "double_edge",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "acid",
-                    "klass": "LevelLearnableMove",
-                    "level": 4
-                },
-                {
-                    "move": "absorb",
-                    "klass": "LevelLearnableMove",
-                    "level": 1
-                },
-                {
-                    "move": "mega_drain",
-                    "klass": "LevelLearnableMove",
-                    "level": 12
-                },
-                {
-                    "move": "recover",
-                    "klass": "LevelLearnableMove",
-                    "level": 40
-                },
-                {
-                    "move": "leech_life",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "acid_armor",
-                    "klass": "LevelLearnableMove",
-                    "level": 24
-                },
-                {
-                    "move": "rest",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "substitute",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "mind_reader",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "snore",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "curse",
-                    "klass": "LevelLearnableMove",
-                    "level": 8
-                },
-                {
-                    "move": "protect",
-                    "klass": "LevelLearnableMove",
-                    "level": 1
-                },
-                {
-                    "move": "protect",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "sludge_bomb",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "spikes",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "giga_drain",
-                    "klass": "LevelLearnableMove",
-                    "level": 28
-                },
-                {
-                    "move": "giga_drain",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "endure",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "attract",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "sleep_talk",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "baton_pass",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "encore",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "rain_dance",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "facade",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "yawn",
-                    "klass": "LevelLearnableMove",
-                    "level": 20
-                },
-                {
-                    "move": "mud_shot",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "feint",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "guard_swap",
-                    "klass": "LevelLearnableMove",
-                    "level": 32
-                },
-                {
-                    "move": "guard_swap",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "toxic_spikes",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "bug_buzz",
-                    "klass": "LevelLearnableMove",
-                    "level": 44
-                },
-                {
-                    "move": "bug_buzz",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "energy_ball",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "guard_split",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "venoshock",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "round",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "final_gambit",
-                    "klass": "LevelLearnableMove",
-                    "level": 48
-                },
-                {
-                    "move": "struggle_bug",
-                    "klass": "LevelLearnableMove",
-                    "level": 16
-                },
-                {
-                    "move": "skitter_smack",
-                    "klass": "TutorLearnableMove"
-                }
-            ]
+          "dbSymbol": "accelgor",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "tradeWith",
+              "value": "karrablast"
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 61,
+      "baseLoyalty": 50,
+      "catchRate": 200,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        3,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "shelmet",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "hydration",
+        "shell_armor",
+        "overcoat"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0616_00",
+        "iconShiny": "0616_00",
+        "front": "0616_00",
+        "back": "0616_00",
+        "frontShiny": "0616_00",
+        "backShiny": "0616_00",
+        "frontF": "0616f_00",
+        "backF": "0616f_00",
+        "frontShinyF": "0616f_00",
+        "backShinyF": "0616f_00",
+        "footprint": "0616_00",
+        "character": "0616_00",
+        "characterF": "0616f_00",
+        "characterShiny": "0616s_00",
+        "characterShinyF": "0616fs_00",
+        "cry": "0616cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "move": "body_slam",
+          "klass": "LevelLearnableMove",
+          "level": 36
+        },
+        {
+          "move": "body_slam",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "double_edge",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "acid",
+          "klass": "LevelLearnableMove",
+          "level": 4
+        },
+        {
+          "move": "absorb",
+          "klass": "LevelLearnableMove",
+          "level": 1
+        },
+        {
+          "move": "mega_drain",
+          "klass": "LevelLearnableMove",
+          "level": 12
+        },
+        {
+          "move": "recover",
+          "klass": "LevelLearnableMove",
+          "level": 40
+        },
+        {
+          "move": "leech_life",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "acid_armor",
+          "klass": "LevelLearnableMove",
+          "level": 24
+        },
+        {
+          "move": "rest",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "substitute",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "mind_reader",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "snore",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "curse",
+          "klass": "LevelLearnableMove",
+          "level": 8
+        },
+        {
+          "move": "protect",
+          "klass": "LevelLearnableMove",
+          "level": 1
+        },
+        {
+          "move": "protect",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "sludge_bomb",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "spikes",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "giga_drain",
+          "klass": "LevelLearnableMove",
+          "level": 28
+        },
+        {
+          "move": "giga_drain",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "endure",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "attract",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "sleep_talk",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "baton_pass",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "encore",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "rain_dance",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "facade",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "yawn",
+          "klass": "LevelLearnableMove",
+          "level": 20
+        },
+        {
+          "move": "mud_shot",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "feint",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "guard_swap",
+          "klass": "LevelLearnableMove",
+          "level": 32
+        },
+        {
+          "move": "guard_swap",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "toxic_spikes",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "bug_buzz",
+          "klass": "LevelLearnableMove",
+          "level": 44
+        },
+        {
+          "move": "bug_buzz",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "energy_ball",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "guard_split",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "venoshock",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "round",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "final_gambit",
+          "klass": "LevelLearnableMove",
+          "level": 48
+        },
+        {
+          "move": "struggle_bug",
+          "klass": "LevelLearnableMove",
+          "level": 16
+        },
+        {
+          "move": "skitter_smack",
+          "klass": "TutorLearnableMove"
+        }
+      ]
+    }
+  ]
 }

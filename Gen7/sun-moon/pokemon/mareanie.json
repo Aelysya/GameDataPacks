@@ -1,280 +1,280 @@
 {
-    "klass": "Specie",
-    "id": 747,
-    "symbol": "mareanie",
-    "forms": [
+  "klass": "Specie",
+  "id": 747,
+  "dbSymbol": "mareanie",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 8.0,
+      "type1": "poison",
+      "type2": "water",
+      "baseHp": 50,
+      "baseAtk": 53,
+      "baseDfe": 62,
+      "baseAts": 43,
+      "baseDfs": 52,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.4,
-            "weight": 8.0,
-            "type1": "poison",
-            "type2": "water",
-            "baseHp": 50,
-            "baseAtk": 53,
-            "baseDfe": 62,
-            "baseAts": 43,
-            "baseDfs": 52,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 1,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "toxapex",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 38
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 61,
-            "baseLoyalty": 50,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                2,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "mareanie",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "poisonbarb",
-                    "chance": 5
-                },
-                {
-                    "dbSymbol": "poisonbarb",
-                    "chance": 5
-                }
-            ],
-            "abilities": [
-                "merciless",
-                "limber",
-                "regenerator"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0747_00",
-                "iconShiny": "0747_00",
-                "front": "0747_00",
-                "back": "0747_00",
-                "frontShiny": "0747_00",
-                "backShiny": "0747_00",
-                "frontF": "0747f_00",
-                "backF": "0747f_00",
-                "frontShinyF": "0747f_00",
-                "backShinyF": "0747f_00",
-                "footprint": "0747_00",
-                "character": "0747_00",
-                "characterF": "0747f_00",
-                "characterShiny": "0747s_00",
-                "characterShinyF": "0747fs_00",
-                "cry": "0747cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": [
-                {
-                    "move": "poison_sting",
-                    "klass": "LevelLearnableMove",
-                    "level": 1
-                },
-                {
-                    "move": "pin_missile",
-                    "klass": "LevelLearnableMove",
-                    "level": 45
-                },
-                {
-                    "move": "bite",
-                    "klass": "LevelLearnableMove",
-                    "level": 9
-                },
-                {
-                    "move": "surf",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "ice_beam",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "blizzard",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "peck",
-                    "klass": "LevelLearnableMove",
-                    "level": 5
-                },
-                {
-                    "move": "toxic",
-                    "klass": "LevelLearnableMove",
-                    "level": 21
-                },
-                {
-                    "move": "toxic",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "double_team",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "recover",
-                    "klass": "LevelLearnableMove",
-                    "level": 33
-                },
-                {
-                    "move": "haze",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "spike_cannon",
-                    "klass": "LevelLearnableMove",
-                    "level": 29
-                },
-                {
-                    "move": "rest",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "substitute",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "protect",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "sludge_bomb",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "swagger",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "attract",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "sleep_talk",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "return",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "frustration",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "safeguard",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "hidden_power",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "rain_dance",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "stockpile",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "spit_up",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "swallow",
-                    "klass": "BreedLearnableMove"
-                },
-                {
-                    "move": "hail",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "facade",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "payback",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "toxic_spikes",
-                    "klass": "LevelLearnableMove",
-                    "level": 13
-                },
-                {
-                    "move": "poison_jab",
-                    "klass": "LevelLearnableMove",
-                    "level": 37
-                },
-                {
-                    "move": "poison_jab",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "wide_guard",
-                    "klass": "LevelLearnableMove",
-                    "level": 17
-                },
-                {
-                    "move": "venoshock",
-                    "klass": "LevelLearnableMove",
-                    "level": 25
-                },
-                {
-                    "move": "venoshock",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "sludge_wave",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "round",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "scald",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "frost_breath",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "confide",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "venom_drench",
-                    "klass": "LevelLearnableMove",
-                    "level": 41
-                },
-                {
-                    "move": "infestation",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "liquidation",
-                    "klass": "LevelLearnableMove",
-                    "level": 49
-                }
-            ]
+          "dbSymbol": "toxapex",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 38
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 61,
+      "baseLoyalty": 50,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        2,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "mareanie",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "poisonbarb",
+          "chance": 5
+        },
+        {
+          "dbSymbol": "poisonbarb",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "merciless",
+        "limber",
+        "regenerator"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0747_00",
+        "iconShiny": "0747_00",
+        "front": "0747_00",
+        "back": "0747_00",
+        "frontShiny": "0747_00",
+        "backShiny": "0747_00",
+        "frontF": "0747f_00",
+        "backF": "0747f_00",
+        "frontShinyF": "0747f_00",
+        "backShinyF": "0747f_00",
+        "footprint": "0747_00",
+        "character": "0747_00",
+        "characterF": "0747f_00",
+        "characterShiny": "0747s_00",
+        "characterShinyF": "0747fs_00",
+        "cry": "0747cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "move": "poison_sting",
+          "klass": "LevelLearnableMove",
+          "level": 1
+        },
+        {
+          "move": "pin_missile",
+          "klass": "LevelLearnableMove",
+          "level": 45
+        },
+        {
+          "move": "bite",
+          "klass": "LevelLearnableMove",
+          "level": 9
+        },
+        {
+          "move": "surf",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "ice_beam",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "blizzard",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "peck",
+          "klass": "LevelLearnableMove",
+          "level": 5
+        },
+        {
+          "move": "toxic",
+          "klass": "LevelLearnableMove",
+          "level": 21
+        },
+        {
+          "move": "toxic",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "double_team",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "recover",
+          "klass": "LevelLearnableMove",
+          "level": 33
+        },
+        {
+          "move": "haze",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "spike_cannon",
+          "klass": "LevelLearnableMove",
+          "level": 29
+        },
+        {
+          "move": "rest",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "substitute",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "protect",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "sludge_bomb",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "swagger",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "attract",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "sleep_talk",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "return",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "frustration",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "safeguard",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "hidden_power",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "rain_dance",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "stockpile",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "spit_up",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "swallow",
+          "klass": "BreedLearnableMove"
+        },
+        {
+          "move": "hail",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "facade",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "payback",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "toxic_spikes",
+          "klass": "LevelLearnableMove",
+          "level": 13
+        },
+        {
+          "move": "poison_jab",
+          "klass": "LevelLearnableMove",
+          "level": 37
+        },
+        {
+          "move": "poison_jab",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "wide_guard",
+          "klass": "LevelLearnableMove",
+          "level": 17
+        },
+        {
+          "move": "venoshock",
+          "klass": "LevelLearnableMove",
+          "level": 25
+        },
+        {
+          "move": "venoshock",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "sludge_wave",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "round",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "scald",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "frost_breath",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "confide",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "venom_drench",
+          "klass": "LevelLearnableMove",
+          "level": 41
+        },
+        {
+          "move": "infestation",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "liquidation",
+          "klass": "LevelLearnableMove",
+          "level": 49
+        }
+      ]
+    }
+  ]
 }

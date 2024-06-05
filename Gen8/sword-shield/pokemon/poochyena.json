@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 261,
-    "symbol": "poochyena",
-    "forms": [
+  "klass": "Specie",
+  "id": 261,
+  "dbSymbol": "poochyena",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 13.6,
+      "type1": "dark",
+      "type2": "__undef__",
+      "baseHp": 35,
+      "baseAtk": 55,
+      "baseDfe": 35,
+      "baseAts": 30,
+      "baseDfs": 30,
+      "baseSpd": 35,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.5,
-            "weight": 13.6,
-            "type1": "dark",
-            "type2": "__undef__",
-            "baseHp": 35,
-            "baseAtk": 55,
-            "baseDfe": 35,
-            "baseAts": 30,
-            "baseDfs": 30,
-            "baseSpd": 35,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "mightyena",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 18
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 56,
-            "baseLoyalty": 70,
-            "catchRate": 255,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "poochyena",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "run_away",
-                "quick_feet",
-                "rattled"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0261_00",
-                "iconShiny": "0261_00",
-                "front": "0261_00",
-                "back": "0261_00",
-                "frontShiny": "0261_00",
-                "backShiny": "0261_00",
-                "frontF": "0261f_00",
-                "backF": "0261f_00",
-                "frontShinyF": "0261f_00",
-                "backShinyF": "0261f_00",
-                "footprint": "0261_00",
-                "character": "0261_00",
-                "characterF": "0261f_00",
-                "characterShiny": "0261s_00",
-                "characterShinyF": "0261fs_00",
-                "cry": "0261cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "mightyena",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 18
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 56,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "poochyena",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "run_away",
+        "quick_feet",
+        "rattled"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0261_00",
+        "iconShiny": "0261_00",
+        "front": "0261_00",
+        "back": "0261_00",
+        "frontShiny": "0261_00",
+        "backShiny": "0261_00",
+        "frontF": "0261f_00",
+        "backF": "0261f_00",
+        "frontShinyF": "0261f_00",
+        "backShinyF": "0261f_00",
+        "footprint": "0261_00",
+        "character": "0261_00",
+        "characterF": "0261f_00",
+        "characterShiny": "0261s_00",
+        "characterShinyF": "0261fs_00",
+        "cry": "0261cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

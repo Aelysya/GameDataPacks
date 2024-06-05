@@ -1,75 +1,75 @@
 {
-    "klass": "Specie",
-    "id": 262,
-    "symbol": "mightyena",
-    "forms": [
+  "klass": "Specie",
+  "id": 262,
+  "dbSymbol": "mightyena",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.0,
+      "weight": 37.0,
+      "type1": "dark",
+      "type2": "__undef__",
+      "baseHp": 70,
+      "baseAtk": 90,
+      "baseDfe": 70,
+      "baseAts": 60,
+      "baseDfs": 60,
+      "baseSpd": 70,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 147,
+      "baseLoyalty": 70,
+      "catchRate": 127,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "mightyena",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.0,
-            "weight": 37.0,
-            "type1": "dark",
-            "type2": "__undef__",
-            "baseHp": 70,
-            "baseAtk": 90,
-            "baseDfe": 70,
-            "baseAts": 60,
-            "baseDfs": 60,
-            "baseSpd": 70,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 147,
-            "baseLoyalty": 70,
-            "catchRate": 127,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "mightyena",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "intimidate",
-                "quick_feet",
-                "moxie"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0262_00",
-                "iconShiny": "0262_00",
-                "front": "0262_00",
-                "back": "0262_00",
-                "frontShiny": "0262_00",
-                "backShiny": "0262_00",
-                "frontF": "0262f_00",
-                "backF": "0262f_00",
-                "frontShinyF": "0262f_00",
-                "backShinyF": "0262f_00",
-                "footprint": "0262_00",
-                "character": "0262_00",
-                "characterF": "0262f_00",
-                "characterShiny": "0262s_00",
-                "characterShinyF": "0262fs_00",
-                "cry": "0262cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "intimidate",
+        "quick_feet",
+        "moxie"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0262_00",
+        "iconShiny": "0262_00",
+        "front": "0262_00",
+        "back": "0262_00",
+        "frontShiny": "0262_00",
+        "backShiny": "0262_00",
+        "frontF": "0262f_00",
+        "backF": "0262f_00",
+        "frontShinyF": "0262f_00",
+        "backShinyF": "0262f_00",
+        "footprint": "0262_00",
+        "character": "0262_00",
+        "characterF": "0262f_00",
+        "characterShiny": "0262s_00",
+        "characterShinyF": "0262fs_00",
+        "cry": "0262cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

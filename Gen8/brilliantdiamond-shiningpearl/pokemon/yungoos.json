@@ -1,90 +1,90 @@
 {
-    "klass": "Specie",
-    "id": 734,
-    "symbol": "yungoos",
-    "forms": [
+  "klass": "Specie",
+  "id": 734,
+  "dbSymbol": "yungoos",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 6.0,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 48,
+      "baseAtk": 70,
+      "baseDfe": 30,
+      "baseAts": 30,
+      "baseDfs": 30,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.4,
-            "weight": 6.0,
-            "type1": "normal",
-            "type2": "__undef__",
-            "baseHp": 48,
-            "baseAtk": 70,
-            "baseDfe": 30,
-            "baseAts": 30,
-            "baseDfs": 30,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "gumshoos",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 20
-                        },
-                        {
-                            "type": "dayNight",
-                            "value": 3
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 51,
-            "baseLoyalty": 70,
-            "catchRate": 255,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "yungoos",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "stakeout",
-                "strong_jaw",
-                "adaptability"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0734_00",
-                "iconShiny": "0734_00",
-                "front": "0734_00",
-                "back": "0734_00",
-                "frontShiny": "0734_00",
-                "backShiny": "0734_00",
-                "frontF": "0734f_00",
-                "backF": "0734f_00",
-                "frontShinyF": "0734f_00",
-                "backShinyF": "0734f_00",
-                "footprint": "0734_00",
-                "character": "0734_00",
-                "characterF": "0734f_00",
-                "characterShiny": "0734s_00",
-                "characterShinyF": "0734fs_00",
-                "cry": "0734cry_00.ogg",
-                "hasFemale": false
+          "dbSymbol": "gumshoos",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 20
             },
-            "moveSet": []
+            {
+              "type": "dayNight",
+              "value": 3
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 51,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "yungoos",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "stakeout",
+        "strong_jaw",
+        "adaptability"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0734_00",
+        "iconShiny": "0734_00",
+        "front": "0734_00",
+        "back": "0734_00",
+        "frontShiny": "0734_00",
+        "backShiny": "0734_00",
+        "frontF": "0734f_00",
+        "backF": "0734f_00",
+        "frontShinyF": "0734f_00",
+        "backShinyF": "0734f_00",
+        "footprint": "0734_00",
+        "character": "0734_00",
+        "characterF": "0734f_00",
+        "characterShiny": "0734s_00",
+        "characterShinyF": "0734fs_00",
+        "cry": "0734cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

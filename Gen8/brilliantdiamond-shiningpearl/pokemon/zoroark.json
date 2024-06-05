@@ -1,143 +1,143 @@
 {
-    "klass": "Specie",
-    "id": 571,
-    "symbol": "zoroark",
-    "forms": [
+  "klass": "Specie",
+  "id": 571,
+  "dbSymbol": "zoroark",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.6,
+      "weight": 81.1,
+      "type1": "dark",
+      "type2": "__undef__",
+      "baseHp": 60,
+      "baseAtk": 105,
+      "baseDfe": 60,
+      "baseAts": 120,
+      "baseDfs": 60,
+      "baseSpd": 105,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 179,
+      "baseLoyalty": 50,
+      "catchRate": 45,
+      "femaleRate": 12.5,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "zoroark",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.6,
-            "weight": 81.1,
-            "type1": "dark",
-            "type2": "__undef__",
-            "baseHp": 60,
-            "baseAtk": 105,
-            "baseDfe": 60,
-            "baseAts": 120,
-            "baseDfs": 60,
-            "baseSpd": 105,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 2,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 3,
-            "baseExperience": 179,
-            "baseLoyalty": 50,
-            "catchRate": 45,
-            "femaleRate": 12.5,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "zoroark",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "illusion",
-                "illusion",
-                "illusion"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0571_00",
-                "iconShiny": "0571_00",
-                "front": "0571_00",
-                "back": "0571_00",
-                "frontShiny": "0571_00",
-                "backShiny": "0571_00",
-                "frontF": "0571f_00",
-                "backF": "0571f_00",
-                "frontShinyF": "0571f_00",
-                "backShinyF": "0571f_00",
-                "footprint": "0571_00",
-                "character": "0571_00",
-                "characterF": "0571f_00",
-                "characterShiny": "0571s_00",
-                "characterShinyF": "0571fs_00",
-                "cry": "0571cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 1.6,
-            "weight": 73.0,
-            "type1": "normal",
-            "type2": "ghost",
-            "baseHp": 55,
-            "baseAtk": 100,
-            "baseDfe": 60,
-            "baseAts": 125,
-            "baseDfs": 60,
-            "baseSpd": 110,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 2,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 3,
-            "baseExperience": 0,
-            "baseLoyalty": 50,
-            "catchRate": 45,
-            "femaleRate": 12.5,
-            "breedGroups": [
-                5,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "zoroark",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "illusion",
-                "illusion",
-                "illusion"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0571_01",
-                "iconShiny": "0571_01",
-                "front": "0571_01",
-                "back": "0571_01",
-                "frontShiny": "0571_01",
-                "backShiny": "0571_01",
-                "frontF": "0571f_01",
-                "backF": "0571f_01",
-                "frontShinyF": "0571f_01",
-                "backShinyF": "0571f_01",
-                "footprint": "0571_01",
-                "character": "0571_01",
-                "characterF": "0571f_01",
-                "characterShiny": "0571s_01",
-                "characterShinyF": "0571fs_01",
-                "cry": "0571cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "illusion",
+        "illusion",
+        "illusion"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0571_00",
+        "iconShiny": "0571_00",
+        "front": "0571_00",
+        "back": "0571_00",
+        "frontShiny": "0571_00",
+        "backShiny": "0571_00",
+        "frontF": "0571f_00",
+        "backF": "0571f_00",
+        "frontShinyF": "0571f_00",
+        "backShinyF": "0571f_00",
+        "footprint": "0571_00",
+        "character": "0571_00",
+        "characterF": "0571f_00",
+        "characterShiny": "0571s_00",
+        "characterShinyF": "0571fs_00",
+        "cry": "0571cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 1.6,
+      "weight": 73.0,
+      "type1": "normal",
+      "type2": "ghost",
+      "baseHp": 55,
+      "baseAtk": 100,
+      "baseDfe": 60,
+      "baseAts": 125,
+      "baseDfs": 60,
+      "baseSpd": 110,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 0,
+      "baseLoyalty": 50,
+      "catchRate": 45,
+      "femaleRate": 12.5,
+      "breedGroups": [
+        5,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "zoroark",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "illusion",
+        "illusion",
+        "illusion"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0571_01",
+        "iconShiny": "0571_01",
+        "front": "0571_01",
+        "back": "0571_01",
+        "frontShiny": "0571_01",
+        "backShiny": "0571_01",
+        "frontF": "0571f_01",
+        "backF": "0571f_01",
+        "frontShinyF": "0571f_01",
+        "backShinyF": "0571f_01",
+        "footprint": "0571_01",
+        "character": "0571_01",
+        "characterF": "0571f_01",
+        "characterShiny": "0571s_01",
+        "characterShinyF": "0571fs_01",
+        "cry": "0571cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

@@ -1,86 +1,86 @@
 {
-    "klass": "Specie",
-    "id": 532,
-    "symbol": "timburr",
-    "forms": [
+  "klass": "Specie",
+  "id": 532,
+  "dbSymbol": "timburr",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.6,
+      "weight": 12.5,
+      "type1": "fighting",
+      "type2": "__undef__",
+      "baseHp": 75,
+      "baseAtk": 80,
+      "baseDfe": 55,
+      "baseAts": 25,
+      "baseDfs": 35,
+      "baseSpd": 35,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.6,
-            "weight": 12.5,
-            "type1": "fighting",
-            "type2": "__undef__",
-            "baseHp": 75,
-            "baseAtk": 80,
-            "baseDfe": 55,
-            "baseAts": 25,
-            "baseDfs": 35,
-            "baseSpd": 35,
-            "evHp": 0,
-            "evAtk": 1,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "gurdurr",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 25
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 61,
-            "baseLoyalty": 70,
-            "catchRate": 180,
-            "femaleRate": 25.0,
-            "breedGroups": [
-                8,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "timburr",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "guts",
-                "sheer_force",
-                "iron_fist"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0532_00",
-                "iconShiny": "0532_00",
-                "front": "0532_00",
-                "back": "0532_00",
-                "frontShiny": "0532_00",
-                "backShiny": "0532_00",
-                "frontF": "0532f_00",
-                "backF": "0532f_00",
-                "frontShinyF": "0532f_00",
-                "backShinyF": "0532f_00",
-                "footprint": "0532_00",
-                "character": "0532_00",
-                "characterF": "0532f_00",
-                "characterShiny": "0532s_00",
-                "characterShinyF": "0532fs_00",
-                "cry": "0532cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "gurdurr",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 25
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 3,
+      "baseExperience": 61,
+      "baseLoyalty": 70,
+      "catchRate": 180,
+      "femaleRate": 25.0,
+      "breedGroups": [
+        8,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "timburr",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "guts",
+        "sheer_force",
+        "iron_fist"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0532_00",
+        "iconShiny": "0532_00",
+        "front": "0532_00",
+        "back": "0532_00",
+        "frontShiny": "0532_00",
+        "backShiny": "0532_00",
+        "frontF": "0532f_00",
+        "backF": "0532f_00",
+        "frontShinyF": "0532f_00",
+        "backShinyF": "0532f_00",
+        "footprint": "0532_00",
+        "character": "0532_00",
+        "characterF": "0532f_00",
+        "characterShiny": "0532s_00",
+        "characterShinyF": "0532fs_00",
+        "cry": "0532cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

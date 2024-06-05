@@ -1,154 +1,154 @@
 {
-    "klass": "Specie",
-    "id": 75,
-    "symbol": "graveler",
-    "forms": [
+  "klass": "Specie",
+  "id": 75,
+  "dbSymbol": "graveler",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.0,
+      "weight": 105.0,
+      "type1": "rock",
+      "type2": "ground",
+      "baseHp": 55,
+      "baseAtk": 95,
+      "baseDfe": 115,
+      "baseAts": 45,
+      "baseDfs": 45,
+      "baseSpd": 35,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 1.0,
-            "weight": 105.0,
-            "type1": "rock",
-            "type2": "ground",
-            "baseHp": 55,
-            "baseAtk": 95,
-            "baseDfe": 115,
-            "baseAts": 45,
-            "baseDfs": 45,
-            "baseSpd": 35,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 2,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "golem",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "trade",
-                            "value": true
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 3,
-            "baseExperience": 137,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                10,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "geodude",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "rock_head",
-                "sturdy",
-                "sand_veil"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0075_00",
-                "iconShiny": "0075_00",
-                "front": "0075_00",
-                "back": "0075_00",
-                "frontShiny": "0075_00",
-                "backShiny": "0075_00",
-                "frontF": "0075f_00",
-                "backF": "0075f_00",
-                "frontShinyF": "0075f_00",
-                "backShinyF": "0075f_00",
-                "footprint": "0075_00",
-                "character": "0075_00",
-                "characterF": "0075f_00",
-                "characterShiny": "0075s_00",
-                "characterShinyF": "0075fs_00",
-                "cry": "0075cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "golem",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "trade",
+              "value": true
+            }
+          ]
+        }
+      ],
+      "experienceType": 3,
+      "baseExperience": 137,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        10,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "geodude",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 1.0,
-            "weight": 110.0,
-            "type1": "rock",
-            "type2": "electric",
-            "baseHp": 55,
-            "baseAtk": 95,
-            "baseDfe": 115,
-            "baseAts": 45,
-            "baseDfs": 45,
-            "baseSpd": 35,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 2,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 3,
-            "baseExperience": 137,
-            "baseLoyalty": 70,
-            "catchRate": 120,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                10,
-                0
-            ],
-            "hatchSteps": 1920,
-            "babyDbSymbol": "graveler",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "magnet_pull",
-                "sturdy",
-                "galvanize"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0075_01",
-                "iconShiny": "0075_01",
-                "front": "0075_01",
-                "back": "0075_01",
-                "frontShiny": "0075_01",
-                "backShiny": "0075_01",
-                "frontF": "0075f_01",
-                "backF": "0075f_01",
-                "frontShinyF": "0075f_01",
-                "backShinyF": "0075f_01",
-                "footprint": "0075_01",
-                "character": "0075_01",
-                "characterF": "0075f_01",
-                "characterShiny": "0075s_01",
-                "characterShinyF": "0075fs_01",
-                "cry": "0075cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "rock_head",
+        "sturdy",
+        "sand_veil"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0075_00",
+        "iconShiny": "0075_00",
+        "front": "0075_00",
+        "back": "0075_00",
+        "frontShiny": "0075_00",
+        "backShiny": "0075_00",
+        "frontF": "0075f_00",
+        "backF": "0075f_00",
+        "frontShinyF": "0075f_00",
+        "backShinyF": "0075f_00",
+        "footprint": "0075_00",
+        "character": "0075_00",
+        "characterF": "0075f_00",
+        "characterShiny": "0075s_00",
+        "characterShinyF": "0075fs_00",
+        "cry": "0075cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 1.0,
+      "weight": 110.0,
+      "type1": "rock",
+      "type2": "electric",
+      "baseHp": 55,
+      "baseAtk": 95,
+      "baseDfe": 115,
+      "baseAts": 45,
+      "baseDfs": 45,
+      "baseSpd": 35,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 3,
+      "baseExperience": 137,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        10,
+        0
+      ],
+      "hatchSteps": 1920,
+      "babyDbSymbol": "graveler",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "magnet_pull",
+        "sturdy",
+        "galvanize"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0075_01",
+        "iconShiny": "0075_01",
+        "front": "0075_01",
+        "back": "0075_01",
+        "frontShiny": "0075_01",
+        "backShiny": "0075_01",
+        "frontF": "0075f_01",
+        "backF": "0075f_01",
+        "frontShinyF": "0075f_01",
+        "backShinyF": "0075f_01",
+        "footprint": "0075_01",
+        "character": "0075_01",
+        "characterF": "0075f_01",
+        "characterShiny": "0075s_01",
+        "characterShinyF": "0075fs_01",
+        "cry": "0075cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

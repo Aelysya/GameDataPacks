@@ -1,206 +1,206 @@
 {
-    "klass": "Specie",
-    "id": 81,
-    "symbol": "magnemite",
-    "forms": [
+  "klass": "Specie",
+  "id": 81,
+  "dbSymbol": "magnemite",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 6.0,
+      "type1": "electric",
+      "type2": "steel",
+      "baseHp": 25,
+      "baseAtk": 35,
+      "baseDfe": 70,
+      "baseAts": 95,
+      "baseDfs": 55,
+      "baseSpd": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.3,
-            "weight": 6.0,
-            "type1": "electric",
-            "type2": "steel",
-            "baseHp": 25,
-            "baseAtk": 35,
-            "baseDfe": 70,
-            "baseAts": 95,
-            "baseDfs": 55,
-            "baseSpd": 45,
-            "evHp": 0,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 1,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "magneton",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 30
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 65,
-            "baseLoyalty": 50,
-            "catchRate": 190,
-            "femaleRate": -1,
-            "breedGroups": [
-                10,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "magnemite",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "metalcoat",
-                    "chance": 5
-                },
-                {
-                    "dbSymbol": "metalcoat",
-                    "chance": 5
-                }
-            ],
-            "abilities": [
-                "magnet_pull",
-                "sturdy",
-                "analytic"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0081_00",
-                "iconShiny": "0081_00",
-                "front": "0081_00",
-                "back": "0081_00",
-                "frontShiny": "0081_00",
-                "backShiny": "0081_00",
-                "frontF": "0081f_00",
-                "backF": "0081f_00",
-                "frontShinyF": "0081f_00",
-                "backShinyF": "0081f_00",
-                "footprint": "0081_00",
-                "character": "0081_00",
-                "characterF": "0081f_00",
-                "characterShiny": "0081s_00",
-                "characterShinyF": "0081fs_00",
-                "cry": "0081cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": [
-                {
-                    "move": "tackle",
-                    "klass": "LevelLearnableMove",
-                    "level": 1
-                },
-                {
-                    "move": "supersonic",
-                    "klass": "LevelLearnableMove",
-                    "level": 11
-                },
-                {
-                    "move": "sonic_boom",
-                    "klass": "LevelLearnableMove",
-                    "level": 16
-                },
-                {
-                    "move": "thunder_shock",
-                    "klass": "LevelLearnableMove",
-                    "level": 6
-                },
-                {
-                    "move": "thunderbolt",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "thunder_wave",
-                    "klass": "LevelLearnableMove",
-                    "level": 21
-                },
-                {
-                    "move": "thunder",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "toxic",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "screech",
-                    "klass": "LevelLearnableMove",
-                    "level": 44
-                },
-                {
-                    "move": "double_team",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "reflect",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "swift",
-                    "klass": "LevelLearnableMove",
-                    "level": 38
-                },
-                {
-                    "move": "flash",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "rest",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "protect",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "zap_cannon",
-                    "klass": "LevelLearnableMove",
-                    "level": 50
-                },
-                {
-                    "move": "lock_on",
-                    "klass": "LevelLearnableMove",
-                    "level": 32
-                },
-                {
-                    "move": "spark",
-                    "klass": "LevelLearnableMove",
-                    "level": 26
-                },
-                {
-                    "move": "return",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "frustration",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "hidden_power",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "rain_dance",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "sunny_day",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "facade",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "secret_power",
-                    "klass": "TechLearnableMove"
-                },
-                {
-                    "move": "metal_sound",
-                    "klass": "LevelLearnableMove",
-                    "level": 1
-                },
-                {
-                    "move": "shock_wave",
-                    "klass": "TechLearnableMove"
-                }
-            ]
+          "dbSymbol": "magneton",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 30
+            }
+          ]
         }
-    ]
+      ],
+      "experienceType": 1,
+      "baseExperience": 65,
+      "baseLoyalty": 50,
+      "catchRate": 190,
+      "femaleRate": -1,
+      "breedGroups": [
+        10,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "magnemite",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "metalcoat",
+          "chance": 5
+        },
+        {
+          "dbSymbol": "metalcoat",
+          "chance": 5
+        }
+      ],
+      "abilities": [
+        "magnet_pull",
+        "sturdy",
+        "analytic"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0081_00",
+        "iconShiny": "0081_00",
+        "front": "0081_00",
+        "back": "0081_00",
+        "frontShiny": "0081_00",
+        "backShiny": "0081_00",
+        "frontF": "0081f_00",
+        "backF": "0081f_00",
+        "frontShinyF": "0081f_00",
+        "backShinyF": "0081f_00",
+        "footprint": "0081_00",
+        "character": "0081_00",
+        "characterF": "0081f_00",
+        "characterShiny": "0081s_00",
+        "characterShinyF": "0081fs_00",
+        "cry": "0081cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "move": "tackle",
+          "klass": "LevelLearnableMove",
+          "level": 1
+        },
+        {
+          "move": "supersonic",
+          "klass": "LevelLearnableMove",
+          "level": 11
+        },
+        {
+          "move": "sonic_boom",
+          "klass": "LevelLearnableMove",
+          "level": 16
+        },
+        {
+          "move": "thunder_shock",
+          "klass": "LevelLearnableMove",
+          "level": 6
+        },
+        {
+          "move": "thunderbolt",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "thunder_wave",
+          "klass": "LevelLearnableMove",
+          "level": 21
+        },
+        {
+          "move": "thunder",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "toxic",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "screech",
+          "klass": "LevelLearnableMove",
+          "level": 44
+        },
+        {
+          "move": "double_team",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "reflect",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "swift",
+          "klass": "LevelLearnableMove",
+          "level": 38
+        },
+        {
+          "move": "flash",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "rest",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "protect",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "zap_cannon",
+          "klass": "LevelLearnableMove",
+          "level": 50
+        },
+        {
+          "move": "lock_on",
+          "klass": "LevelLearnableMove",
+          "level": 32
+        },
+        {
+          "move": "spark",
+          "klass": "LevelLearnableMove",
+          "level": 26
+        },
+        {
+          "move": "return",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "frustration",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "hidden_power",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "rain_dance",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "sunny_day",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "facade",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "secret_power",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "metal_sound",
+          "klass": "LevelLearnableMove",
+          "level": 1
+        },
+        {
+          "move": "shock_wave",
+          "klass": "TechLearnableMove"
+        }
+      ]
+    }
+  ]
 }

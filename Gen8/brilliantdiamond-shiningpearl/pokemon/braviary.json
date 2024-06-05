@@ -1,143 +1,143 @@
 {
-    "klass": "Specie",
-    "id": 628,
-    "symbol": "braviary",
-    "forms": [
+  "klass": "Specie",
+  "id": 628,
+  "dbSymbol": "braviary",
+  "forms": [
+    {
+      "form": 0,
+      "height": 1.5,
+      "weight": 41.0,
+      "type1": "normal",
+      "type2": "flying",
+      "baseHp": 100,
+      "baseAtk": 123,
+      "baseDfe": 75,
+      "baseAts": 57,
+      "baseDfs": 75,
+      "baseSpd": 80,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 179,
+      "baseLoyalty": 50,
+      "catchRate": 60,
+      "femaleRate": 0.0,
+      "breedGroups": [
+        4,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "braviary",
+      "babyForm": 0,
+      "itemHeld": [
         {
-            "form": 0,
-            "height": 1.5,
-            "weight": 41.0,
-            "type1": "normal",
-            "type2": "flying",
-            "baseHp": 100,
-            "baseAtk": 123,
-            "baseDfe": 75,
-            "baseAts": 57,
-            "baseDfs": 75,
-            "baseSpd": 80,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 179,
-            "baseLoyalty": 50,
-            "catchRate": 60,
-            "femaleRate": 0.0,
-            "breedGroups": [
-                4,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "braviary",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "keen_eye",
-                "sheer_force",
-                "defiant"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0628_00",
-                "iconShiny": "0628_00",
-                "front": "0628_00",
-                "back": "0628_00",
-                "frontShiny": "0628_00",
-                "backShiny": "0628_00",
-                "frontF": "0628f_00",
-                "backF": "0628f_00",
-                "frontShinyF": "0628f_00",
-                "backShinyF": "0628f_00",
-                "footprint": "0628_00",
-                "character": "0628_00",
-                "characterF": "0628f_00",
-                "characterShiny": "0628s_00",
-                "characterShinyF": "0628fs_00",
-                "cry": "0628cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 1.7,
-            "weight": 43.4,
-            "type1": "psychic",
-            "type2": "flying",
-            "baseHp": 110,
-            "baseAtk": 83,
-            "baseDfe": 70,
-            "baseAts": 112,
-            "baseDfs": 70,
-            "baseSpd": 65,
-            "evHp": 0,
-            "evAtk": 2,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 2,
-            "baseExperience": 0,
-            "baseLoyalty": 50,
-            "catchRate": 60,
-            "femaleRate": 0.0,
-            "breedGroups": [
-                4,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "braviary",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "keen_eye",
-                "sheer_force",
-                "tinted_lens"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0628_01",
-                "iconShiny": "0628_01",
-                "front": "0628_01",
-                "back": "0628_01",
-                "frontShiny": "0628_01",
-                "backShiny": "0628_01",
-                "frontF": "0628f_01",
-                "backF": "0628f_01",
-                "frontShinyF": "0628f_01",
-                "backShinyF": "0628f_01",
-                "footprint": "0628_01",
-                "character": "0628_01",
-                "characterF": "0628f_01",
-                "characterShiny": "0628s_01",
-                "characterShinyF": "0628fs_01",
-                "cry": "0628cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "keen_eye",
+        "sheer_force",
+        "defiant"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0628_00",
+        "iconShiny": "0628_00",
+        "front": "0628_00",
+        "back": "0628_00",
+        "frontShiny": "0628_00",
+        "backShiny": "0628_00",
+        "frontF": "0628f_00",
+        "backF": "0628f_00",
+        "frontShinyF": "0628f_00",
+        "backShinyF": "0628f_00",
+        "footprint": "0628_00",
+        "character": "0628_00",
+        "characterF": "0628f_00",
+        "characterShiny": "0628s_00",
+        "characterShinyF": "0628fs_00",
+        "cry": "0628cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 1.7,
+      "weight": 43.4,
+      "type1": "psychic",
+      "type2": "flying",
+      "baseHp": 110,
+      "baseAtk": 83,
+      "baseDfe": 70,
+      "baseAts": 112,
+      "baseDfs": 70,
+      "baseSpd": 65,
+      "evHp": 0,
+      "evAtk": 2,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 2,
+      "baseExperience": 0,
+      "baseLoyalty": 50,
+      "catchRate": 60,
+      "femaleRate": 0.0,
+      "breedGroups": [
+        4,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "braviary",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "keen_eye",
+        "sheer_force",
+        "tinted_lens"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0628_01",
+        "iconShiny": "0628_01",
+        "front": "0628_01",
+        "back": "0628_01",
+        "frontShiny": "0628_01",
+        "backShiny": "0628_01",
+        "frontF": "0628f_01",
+        "backF": "0628f_01",
+        "frontShinyF": "0628f_01",
+        "backShinyF": "0628f_01",
+        "footprint": "0628_01",
+        "character": "0628_01",
+        "characterF": "0628f_01",
+        "characterShiny": "0628s_01",
+        "characterShinyF": "0628fs_01",
+        "cry": "0628cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }

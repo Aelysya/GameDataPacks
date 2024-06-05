@@ -1,154 +1,154 @@
 {
-    "klass": "Specie",
-    "id": 88,
-    "symbol": "grimer",
-    "forms": [
+  "klass": "Specie",
+  "id": 88,
+  "dbSymbol": "grimer",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.9,
+      "weight": 30.0,
+      "type1": "poison",
+      "type2": "__undef__",
+      "baseHp": 80,
+      "baseAtk": 80,
+      "baseDfe": 50,
+      "baseAts": 40,
+      "baseDfs": 50,
+      "baseSpd": 25,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [
         {
-            "form": 0,
-            "height": 0.9,
-            "weight": 30.0,
-            "type1": "poison",
-            "type2": "__undef__",
-            "baseHp": 80,
-            "baseAtk": 80,
-            "baseDfe": 50,
-            "baseAts": 40,
-            "baseDfs": 50,
-            "baseSpd": 25,
-            "evHp": 1,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [
-                {
-                    "dbSymbol": "muk",
-                    "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": 38
-                        }
-                    ]
-                }
-            ],
-            "experienceType": 1,
-            "baseExperience": 65,
-            "baseLoyalty": 70,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                11,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "grimer",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "stench",
-                "sticky_hold",
-                "poison_touch"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0088_00",
-                "iconShiny": "0088_00",
-                "front": "0088_00",
-                "back": "0088_00",
-                "frontShiny": "0088_00",
-                "backShiny": "0088_00",
-                "frontF": "0088f_00",
-                "backF": "0088f_00",
-                "frontShinyF": "0088f_00",
-                "backShinyF": "0088f_00",
-                "footprint": "0088_00",
-                "character": "0088_00",
-                "characterF": "0088f_00",
-                "characterShiny": "0088s_00",
-                "characterShinyF": "0088fs_00",
-                "cry": "0088cry_00.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "muk",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 38
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 65,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        11,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "grimer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
         },
         {
-            "form": 1,
-            "height": 0.7,
-            "weight": 42.0,
-            "type1": "poison",
-            "type2": "dark",
-            "baseHp": 80,
-            "baseAtk": 80,
-            "baseDfe": 50,
-            "baseAts": 40,
-            "baseDfs": 50,
-            "baseSpd": 25,
-            "evHp": 1,
-            "evAtk": 0,
-            "evDfe": 0,
-            "evAts": 0,
-            "evDfs": 0,
-            "evSpd": 0,
-            "evolutions": [],
-            "experienceType": 1,
-            "baseExperience": 65,
-            "baseLoyalty": 70,
-            "catchRate": 190,
-            "femaleRate": 50.0,
-            "breedGroups": [
-                11,
-                0
-            ],
-            "hatchSteps": 2560,
-            "babyDbSymbol": "grimer",
-            "babyForm": 0,
-            "itemHeld": [
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                },
-                {
-                    "dbSymbol": "none",
-                    "chance": 0
-                }
-            ],
-            "abilities": [
-                "poison_touch",
-                "gluttony",
-                "power_of_alchemy"
-            ],
-            "frontOffsetY": 0,
-            "resources": {
-                "icon": "0088_01",
-                "iconShiny": "0088_01",
-                "front": "0088_01",
-                "back": "0088_01",
-                "frontShiny": "0088_01",
-                "backShiny": "0088_01",
-                "frontF": "0088f_01",
-                "backF": "0088f_01",
-                "frontShinyF": "0088f_01",
-                "backShinyF": "0088f_01",
-                "footprint": "0088_01",
-                "character": "0088_01",
-                "characterF": "0088f_01",
-                "characterShiny": "0088s_01",
-                "characterShinyF": "0088fs_01",
-                "cry": "0088cry_01.ogg",
-                "hasFemale": false
-            },
-            "moveSet": []
+          "dbSymbol": "none",
+          "chance": 0
         }
-    ]
+      ],
+      "abilities": [
+        "stench",
+        "sticky_hold",
+        "poison_touch"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0088_00",
+        "iconShiny": "0088_00",
+        "front": "0088_00",
+        "back": "0088_00",
+        "frontShiny": "0088_00",
+        "backShiny": "0088_00",
+        "frontF": "0088f_00",
+        "backF": "0088f_00",
+        "frontShinyF": "0088f_00",
+        "backShinyF": "0088f_00",
+        "footprint": "0088_00",
+        "character": "0088_00",
+        "characterF": "0088f_00",
+        "characterShiny": "0088s_00",
+        "characterShinyF": "0088fs_00",
+        "cry": "0088cry_00.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    },
+    {
+      "form": 1,
+      "height": 0.7,
+      "weight": 42.0,
+      "type1": "poison",
+      "type2": "dark",
+      "baseHp": 80,
+      "baseAtk": 80,
+      "baseDfe": 50,
+      "baseAts": 40,
+      "baseDfs": 50,
+      "baseSpd": 25,
+      "evHp": 1,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evSpd": 0,
+      "evolutions": [],
+      "experienceType": 1,
+      "baseExperience": 65,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50.0,
+      "breedGroups": [
+        11,
+        0
+      ],
+      "hatchSteps": 2560,
+      "babyDbSymbol": "grimer",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "poison_touch",
+        "gluttony",
+        "power_of_alchemy"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "0088_01",
+        "iconShiny": "0088_01",
+        "front": "0088_01",
+        "back": "0088_01",
+        "frontShiny": "0088_01",
+        "backShiny": "0088_01",
+        "frontF": "0088f_01",
+        "backF": "0088f_01",
+        "frontShinyF": "0088f_01",
+        "backShinyF": "0088f_01",
+        "footprint": "0088_01",
+        "character": "0088_01",
+        "characterF": "0088f_01",
+        "characterShiny": "0088s_01",
+        "characterShinyF": "0088fs_01",
+        "cry": "0088cry_01.ogg",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
 }
