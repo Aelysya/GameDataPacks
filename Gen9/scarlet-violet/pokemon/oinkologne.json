@@ -323,7 +323,7 @@
             "evSpd": 0,
             "evolutions": [],
             "experienceType": 1,
-            "baseExperience": null,
+            "baseExperience": 0,
             "baseLoyalty": 50,
             "catchRate": 100,
             "femaleRate": 0.0,

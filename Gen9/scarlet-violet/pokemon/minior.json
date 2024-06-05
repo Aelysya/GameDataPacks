@@ -26,7 +26,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -326,7 +326,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -626,7 +626,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -926,7 +926,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -1226,7 +1226,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -1526,7 +1526,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -1826,7 +1826,7 @@
             "baseExperience": 154,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -2126,7 +2126,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -2426,7 +2426,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -2726,7 +2726,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -3026,7 +3026,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -3326,7 +3326,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -3626,7 +3626,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0
@@ -3926,7 +3926,7 @@
             "baseExperience": 175,
             "baseLoyalty": 70,
             "catchRate": 30,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 10,
                 0

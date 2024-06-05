@@ -26,7 +26,7 @@
             "baseExperience": 300,
             "baseLoyalty": 0,
             "catchRate": 3,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [],
             "hatchSteps": 2560,
             "babyDbSymbol": "pecharunt",

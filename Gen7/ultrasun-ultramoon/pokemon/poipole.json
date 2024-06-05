@@ -27,10 +27,6 @@
                     "form": 0,
                     "conditions": [
                         {
-                            "type": "minLevel",
-                            "value": null
-                        },
-                        {
                             "type": "skill1",
                             "value": "dragon_pulse"
                         }
@@ -41,7 +37,7 @@
             "baseExperience": 210,
             "baseLoyalty": 0,
             "catchRate": 45,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 15,
                 0

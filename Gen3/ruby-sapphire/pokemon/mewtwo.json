@@ -45,7 +45,7 @@
             "baseExperience": 340,
             "baseLoyalty": 0,
             "catchRate": 3,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 15,
                 0
@@ -341,7 +341,7 @@
             "baseExperience": 351,
             "baseLoyalty": 0,
             "catchRate": 3,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 15,
                 0
@@ -409,7 +409,7 @@
             "baseExperience": 351,
             "baseLoyalty": 0,
             "catchRate": 3,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 15,
                 0

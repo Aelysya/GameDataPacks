@@ -26,7 +26,7 @@
             "baseExperience": 170,
             "baseLoyalty": 0,
             "catchRate": 45,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [],
             "hatchSteps": 2560,
             "babyDbSymbol": "dipplin",

@@ -379,10 +379,6 @@
                     "form": 1,
                     "conditions": [
                         {
-                            "type": "minLevel",
-                            "value": null
-                        },
-                        {
                             "type": "minLoyalty",
                             "value": 160
                         }

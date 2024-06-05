@@ -25,12 +25,7 @@
                 {
                     "dbSymbol": "mantine",
                     "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": null
-                        }
-                    ]
+                    "conditions": []
                 }
             ],
             "experienceType": 2,

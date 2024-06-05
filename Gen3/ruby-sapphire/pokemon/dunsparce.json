@@ -27,10 +27,6 @@
                     "form": 0,
                     "conditions": [
                         {
-                            "type": "minLevel",
-                            "value": null
-                        },
-                        {
                             "type": "skill1",
                             "value": "hyper_drill"
                         }

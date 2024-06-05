@@ -57,10 +57,6 @@
                     "form": 0,
                     "conditions": [
                         {
-                            "type": "minLevel",
-                            "value": null
-                        },
-                        {
                             "type": "dayNight",
                             "value": 3
                         },
@@ -74,10 +70,6 @@
                     "dbSymbol": "umbreon",
                     "form": 0,
                     "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": null
-                        },
                         {
                             "type": "dayNight",
                             "value": 0
@@ -111,12 +103,7 @@
                 {
                     "dbSymbol": "sylveon",
                     "form": 0,
-                    "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": null
-                        }
-                    ]
+                    "conditions": []
                 }
             ],
             "experienceType": 1,
@@ -375,10 +362,6 @@
                     "dbSymbol": "sylveon",
                     "form": 1,
                     "conditions": [
-                        {
-                            "type": "minLevel",
-                            "value": null
-                        },
                         {
                             "type": "minLoyalty",
                             "value": 160

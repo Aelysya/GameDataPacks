@@ -26,7 +26,7 @@
             "baseExperience": 340,
             "baseLoyalty": 0,
             "catchRate": 3,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 15,
                 0
@@ -347,10 +347,10 @@
             "evSpd": 0,
             "evolutions": [],
             "experienceType": 2,
-            "baseExperience": null,
+            "baseExperience": 0,
             "baseLoyalty": 0,
             "catchRate": 3,
-            "femaleRate": -12.5,
+            "femaleRate": -1,
             "breedGroups": [
                 15,
                 0
