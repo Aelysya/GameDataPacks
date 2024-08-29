@@ -36,8 +36,13 @@
   "isUnfreeze": false,
   "battleEngineAimedTarget": "adjacent_pokemon",
   "battleStageMod": [],
-  "moveStatus": [],
-  "effectChance": 0,
+  "moveStatus": [
+    {
+      "status": "PARALYZED",
+      "luckRate": 100
+    }
+  ],
+  "effectChance": 100,
   "isSlicingAttack": false,
   "isWind": false
 }
