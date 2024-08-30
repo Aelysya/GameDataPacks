@@ -35,8 +35,7 @@
   "isSoundAttack": false,
   "isUnfreeze": false,
   "battleEngineAimedTarget": "adjacent_pokemon",
-  "battleStageMod": [],
-  "moveStatus": [
+  "battleStageMod": [
     {
       "battleStage": "ATK_STAGE",
       "modificator": 2
@@ -58,6 +57,7 @@
       "modificator": 2
     }
   ],
+  "moveStatus": [],
   "effectChance": 100,
   "isSlicingAttack": false,
   "isWind": false
