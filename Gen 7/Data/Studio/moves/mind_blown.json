@@ -1,20 +1,20 @@
 {
   "klass": "Move",
-  "id": 715,
-  "dbSymbol": "tearful_look",
+  "id": 720,
+  "dbSymbol": "mind_blown",
   "mapUse": 0,
-  "battleEngineMethod": "s_stat",
-  "type": "normal",
-  "power": 0,
-  "accuracy": 0,
-  "pp": 20,
-  "category": "status",
+  "battleEngineMethod": "s_recoil",
+  "type": "fire",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "category": "special",
   "movecriticalRate": 1,
   "priority": 0,
   "isAuthentic": false,
   "isBallistics": false,
   "isBite": false,
-  "isBlocable": false,
+  "isBlocable": true,
   "isCharge": false,
   "isDance": false,
   "isDirect": false,
@@ -22,8 +22,8 @@
   "isEffectChance": false,
   "isGravity": false,
   "isHeal": false,
-  "isKingRockUtility": false,
-  "isMagicCoatAffected": true,
+  "isKingRockUtility": true,
+  "isMagicCoatAffected": false,
   "isMental": false,
   "isMirrorMove": true,
   "isNonSkyBattle": false,
@@ -34,19 +34,10 @@
   "isSnatchable": false,
   "isSoundAttack": false,
   "isUnfreeze": false,
-  "battleEngineAimedTarget": "adjacent_pokemon",
-  "battleStageMod": [
-    {
-      "battleStage": "ATK_STAGE",
-      "modificator": -1
-    },
-    {
-      "battleStage": "ATS_STAGE",
-      "modificator": -1
-    }
-  ],
+  "battleEngineAimedTarget": "adjacent_all_pokemon",
+  "battleStageMod": [],
   "moveStatus": [],
-  "effectChance": 100,
+  "effectChance": 0,
   "isSlicingAttack": false,
   "isWind": false
 }

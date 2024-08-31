@@ -1,17 +1,17 @@
 {
   "klass": "Move",
-  "id": 715,
-  "dbSymbol": "tearful_look",
+  "id": 728,
+  "dbSymbol": "clangorous_soulblaze",
   "mapUse": 0,
-  "battleEngineMethod": "s_stat",
-  "type": "normal",
-  "power": 0,
+  "battleEngineMethod": "s_basic",
+  "type": "dragon",
+  "power": 185,
   "accuracy": 0,
-  "pp": 20,
-  "category": "status",
+  "pp": 1,
+  "category": "special",
   "movecriticalRate": 1,
   "priority": 0,
-  "isAuthentic": false,
+  "isAuthentic": true,
   "isBallistics": false,
   "isBite": false,
   "isBlocable": false,
@@ -22,27 +22,39 @@
   "isEffectChance": false,
   "isGravity": false,
   "isHeal": false,
-  "isKingRockUtility": false,
-  "isMagicCoatAffected": true,
+  "isKingRockUtility": true,
+  "isMagicCoatAffected": false,
   "isMental": false,
-  "isMirrorMove": true,
+  "isMirrorMove": false,
   "isNonSkyBattle": false,
   "isPowder": false,
   "isPulse": false,
   "isPunch": false,
   "isRecharge": false,
   "isSnatchable": false,
-  "isSoundAttack": false,
+  "isSoundAttack": true,
   "isUnfreeze": false,
-  "battleEngineAimedTarget": "adjacent_pokemon",
+  "battleEngineAimedTarget": "adjacent_all_foe",
   "battleStageMod": [
     {
       "battleStage": "ATK_STAGE",
-      "modificator": -1
+      "modificator": 1
+    },
+    {
+      "battleStage": "DFE_STAGE",
+      "modificator": 1
+    },
+    {
+      "battleStage": "SPD_STAGE",
+      "modificator": 1
     },
     {
       "battleStage": "ATS_STAGE",
-      "modificator": -1
+      "modificator": 1
+    },
+    {
+      "battleStage": "DFS_STAGE",
+      "modificator": 1
     }
   ],
   "moveStatus": [],
