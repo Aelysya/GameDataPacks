@@ -25,7 +25,7 @@
       "experienceType": 2,
       "baseExperience": 306,
       "baseLoyalty": 0,
-      "catchRate": 45,
+      "catchRate": 3,
       "femaleRate": -1,
       "breedGroups": [
         15,
@@ -425,7 +425,7 @@
       "experienceType": 2,
       "baseExperience": 351,
       "baseLoyalty": 0,
-      "catchRate": 45,
+      "catchRate": 3,
       "femaleRate": -1,
       "breedGroups": [
         15,

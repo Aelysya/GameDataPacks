@@ -61,6 +61,19 @@
         "gluttony"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "325",
+        "iconShiny": "",
+        "front": "325",
+        "frontShiny": "325",
+        "back": "325",
+        "backShiny": "325",
+        "footprint": "325",
+        "character": "325_0",
+        "characterShiny": "325s_0",
+        "cry": "325cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -183,7 +196,7 @@
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "magic_coat"
+          "move": "mirror_coat"
         },
         {
           "klass": "TutorLearnableMove",
@@ -377,20 +390,7 @@
           "klass": "BreedLearnableMove",
           "move": "zen_headbutt"
         }
-      ],
-      "resources": {
-        "icon": "325",
-        "iconShiny": "",
-        "front": "325",
-        "frontShiny": "325",
-        "back": "325",
-        "backShiny": "325",
-        "footprint": "325",
-        "character": "325_0",
-        "characterShiny": "325s_0",
-        "cry": "325cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }
