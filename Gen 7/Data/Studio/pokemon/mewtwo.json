@@ -538,7 +538,7 @@
       "evolutions": [],
       "experienceType": 2,
       "baseExperience": 351,
-      "baseLoyalty": 1,
+      "baseLoyalty": 0,
       "catchRate": 3,
       "femaleRate": -1,
       "breedGroups": [
@@ -1119,7 +1119,7 @@
       "evolutions": [],
       "experienceType": 2,
       "baseExperience": 351,
-      "baseLoyalty": 1,
+      "baseLoyalty": 0,
       "catchRate": 3,
       "femaleRate": -1,
       "breedGroups": [

@@ -365,7 +365,7 @@
       "height": 1.7,
       "weight": 59,
       "type1": "bug",
-      "type2": "__undef__",
+      "type2": "flying",
       "baseHp": 65,
       "baseAtk": 155,
       "baseDfe": 120,
