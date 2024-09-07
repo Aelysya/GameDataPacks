@@ -7635,6 +7635,10 @@
         {
           "klass": "TechLearnableMove",
           "move": "confide"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "draco_meteor"
         }
       ]
     },

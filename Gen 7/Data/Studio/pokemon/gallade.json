@@ -30,15 +30,6 @@
               "value": "galladite"
             }
           ]
-        },
-        {
-          "form": 30,
-          "conditions": [
-            {
-              "type": "gemme",
-              "value": "galladite"
-            }
-          ]
         }
       ],
       "experienceType": 2,
