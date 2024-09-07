@@ -41,7 +41,7 @@
         3,
         3
       ],
-      "hatchSteps": 5120,
+      "hatchSteps": 6400,
       "babyDbSymbol": "heracross",
       "babyForm": 0,
       "itemHeld": [
@@ -125,7 +125,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "attract",
+          "move": "chip_away",
           "level": 16
         },
         {
@@ -414,7 +414,7 @@
         3,
         3
       ],
-      "hatchSteps": 5120,
+      "hatchSteps": 6400,
       "babyDbSymbol": "heracross",
       "babyForm": 0,
       "itemHeld": [
@@ -498,7 +498,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "attract",
+          "move": "chip_away",
           "level": 16
         },
         {
