@@ -29,6 +29,10 @@
             {
               "type": "minLevel",
               "value": 20
+            },
+            {
+              "type": "dayNight",
+              "value": 3
             }
           ]
         }

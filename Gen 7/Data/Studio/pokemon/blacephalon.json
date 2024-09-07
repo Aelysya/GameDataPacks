@@ -121,7 +121,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "__undef__",
+          "move": "mind_blown",
           "level": 59
         },
         {

@@ -116,7 +116,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "feint_attack",
+          "move": "feint",
           "level": 11
         },
         {
