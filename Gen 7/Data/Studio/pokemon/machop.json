@@ -37,7 +37,7 @@
       "baseExperience": 61,
       "baseLoyalty": 70,
       "catchRate": 180,
-      "femaleRate": 75,
+      "femaleRate": 25,
       "breedGroups": [
         8,
         8
