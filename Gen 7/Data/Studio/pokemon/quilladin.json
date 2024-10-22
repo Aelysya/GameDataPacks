@@ -394,7 +394,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "needle_arm"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 697,
+        "description": 0
+      }
     }
   ]
 }

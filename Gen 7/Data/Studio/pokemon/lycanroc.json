@@ -320,7 +320,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "accelerock"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 500,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -667,7 +671,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "counter"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 501,
+        "description": 108
+      }
     },
     {
       "form": 2,
@@ -990,7 +998,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "thrash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 502,
+        "description": 109
+      }
     }
   ]
 }

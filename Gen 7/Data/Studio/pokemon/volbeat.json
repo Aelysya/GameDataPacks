@@ -364,7 +364,11 @@
           "klass": "TutorLearnableMove",
           "move": "defog"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1003,
+        "description": 0
+      }
     }
   ]
 }

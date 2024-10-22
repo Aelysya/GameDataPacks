@@ -348,7 +348,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "shell_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 507,
+        "description": 0
+      }
     }
   ]
 }

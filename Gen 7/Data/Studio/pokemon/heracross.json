@@ -384,7 +384,11 @@
           "klass": "BreedLearnableMove",
           "move": "seismic_toss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 391,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -969,7 +973,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 392,
+        "description": 95
+      }
     }
   ]
 }

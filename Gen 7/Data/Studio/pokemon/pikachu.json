@@ -343,7 +343,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 654,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -676,7 +680,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 655,
+        "description": 138
+      }
     },
     {
       "form": 2,
@@ -1009,7 +1017,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 656,
+        "description": 139
+      }
     },
     {
       "form": 3,
@@ -1342,7 +1354,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 657,
+        "description": 140
+      }
     },
     {
       "form": 4,
@@ -1675,7 +1691,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 658,
+        "description": 141
+      }
     },
     {
       "form": 5,
@@ -2024,7 +2044,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sweet_kiss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 659,
+        "description": 142
+      }
     },
     {
       "form": 6,
@@ -2373,7 +2397,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sweet_kiss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 660,
+        "description": 143
+      }
     },
     {
       "form": 7,
@@ -2722,7 +2750,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sweet_kiss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 661,
+        "description": 144
+      }
     },
     {
       "form": 8,
@@ -3071,7 +3103,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sweet_kiss"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 662,
+        "description": 145
+      }
     }
   ]
 }

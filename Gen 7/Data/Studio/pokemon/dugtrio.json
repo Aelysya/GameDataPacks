@@ -295,7 +295,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sand_tomb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 228,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -605,7 +609,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sand_tomb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 229,
+        "description": 50
+      }
     }
   ]
 }

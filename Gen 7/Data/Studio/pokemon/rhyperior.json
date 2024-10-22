@@ -446,7 +446,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 721,
+        "description": 0
+      }
     }
   ]
 }

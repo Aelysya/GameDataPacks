@@ -363,7 +363,11 @@
           "klass": "BreedLearnableMove",
           "move": "future_sight"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 528,
+        "description": 0
+      }
     }
   ]
 }

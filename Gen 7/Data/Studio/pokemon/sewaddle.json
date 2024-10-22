@@ -296,7 +296,11 @@
           "klass": "BreedLearnableMove",
           "move": "silver_wind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 774,
+        "description": 0
+      }
     }
   ]
 }

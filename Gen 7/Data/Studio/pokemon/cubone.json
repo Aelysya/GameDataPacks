@@ -407,7 +407,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 179,
+        "description": 0
+      }
     }
   ]
 }

@@ -303,7 +303,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "fury_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 704,
+        "description": 0
+      }
     }
   ]
 }

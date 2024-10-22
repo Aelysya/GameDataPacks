@@ -332,7 +332,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "scary_face"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 705,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -687,7 +691,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "scary_face"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 706,
+        "description": 151
+      }
     }
   ]
 }

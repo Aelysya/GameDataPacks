@@ -92,7 +92,11 @@
           "klass": "TutorLearnableMove",
           "move": "zen_headbutt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 75,
+        "description": 0
+      }
     }
   ]
 }

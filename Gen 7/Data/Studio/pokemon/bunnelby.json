@@ -335,7 +335,11 @@
           "klass": "BreedLearnableMove",
           "move": "spikes"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 106,
+        "description": 0
+      }
     }
   ]
 }

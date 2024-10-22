@@ -412,7 +412,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "wing_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 130,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -837,7 +841,11 @@
           "klass": "TechLearnableMove",
           "move": "flame_charge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 131,
+        "description": 38
+      }
     },
     {
       "form": 31,
@@ -1262,7 +1270,11 @@
           "klass": "TechLearnableMove",
           "move": "flame_charge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 132,
+        "description": 39
+      }
     }
   ]
 }

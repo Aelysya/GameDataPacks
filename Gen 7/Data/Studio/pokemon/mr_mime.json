@@ -525,7 +525,11 @@
           "klass": "BreedLearnableMove",
           "move": "wake_up_slap"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 581,
+        "description": 0
+      }
     }
   ]
 }

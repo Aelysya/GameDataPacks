@@ -449,7 +449,11 @@
           "klass": "BreedLearnableMove",
           "move": "zen_headbutt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 836,
+        "description": 0
+      }
     }
   ]
 }

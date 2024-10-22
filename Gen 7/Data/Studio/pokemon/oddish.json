@@ -323,7 +323,11 @@
           "klass": "BreedLearnableMove",
           "move": "strength_sap"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 615,
+        "description": 0
+      }
     }
   ]
 }

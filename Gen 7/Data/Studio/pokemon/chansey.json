@@ -512,7 +512,11 @@
           "klass": "BreedLearnableMove",
           "move": "last_resort"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 129,
+        "description": 0
+      }
     }
   ]
 }

@@ -344,7 +344,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "slash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 471,
+        "description": 0
+      }
     }
   ]
 }

@@ -340,7 +340,11 @@
           "klass": "BreedLearnableMove",
           "move": "water_spout"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 716,
+        "description": 0
+      }
     }
   ]
 }

@@ -439,7 +439,11 @@
           "klass": "BreedLearnableMove",
           "move": "throat_chop"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 834,
+        "description": 0
+      }
     }
   ]
 }

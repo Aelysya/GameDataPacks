@@ -267,7 +267,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "petal_dance"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 137,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -506,7 +510,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 138,
+        "description": 40
+      }
     }
   ]
 }

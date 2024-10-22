@@ -348,7 +348,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "tri_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 513,
+        "description": 0
+      }
     }
   ]
 }

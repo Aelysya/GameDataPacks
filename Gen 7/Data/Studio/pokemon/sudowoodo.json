@@ -401,7 +401,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "slam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 866,
+        "description": 0
+      }
     }
   ]
 }

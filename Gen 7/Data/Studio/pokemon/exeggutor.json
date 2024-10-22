@@ -293,7 +293,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "stomp"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 257,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -633,7 +637,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "dragon_hammer"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 258,
+        "description": 51
+      }
     }
   ]
 }

@@ -399,7 +399,11 @@
           "klass": "BreedLearnableMove",
           "move": "trick"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 841,
+        "description": 0
+      }
     }
   ]
 }

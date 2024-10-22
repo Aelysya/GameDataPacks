@@ -372,7 +372,11 @@
           "klass": "TutorLearnableMove",
           "move": "thunder_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 515,
+        "description": 0
+      }
     }
   ]
 }

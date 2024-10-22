@@ -419,7 +419,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "shadow_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 326,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -751,7 +755,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 327,
+        "description": 82
+      }
     }
   ]
 }

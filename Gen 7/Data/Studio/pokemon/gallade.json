@@ -523,7 +523,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "slash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 310,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -1134,7 +1138,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 311,
+        "description": 74
+      }
     }
   ]
 }

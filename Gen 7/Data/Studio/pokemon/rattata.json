@@ -344,7 +344,11 @@
           "klass": "BreedLearnableMove",
           "move": "screech"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 707,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -699,7 +703,11 @@
           "klass": "BreedLearnableMove",
           "move": "switcheroo"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 708,
+        "description": 152
+      }
     }
   ]
 }

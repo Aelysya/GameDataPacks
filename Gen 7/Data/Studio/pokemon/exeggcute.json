@@ -382,7 +382,11 @@
           "klass": "BreedLearnableMove",
           "move": "leaf_storm"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 256,
+        "description": 0
+      }
     }
   ]
 }

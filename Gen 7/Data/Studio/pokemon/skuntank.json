@@ -324,7 +324,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "flamethrower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 822,
+        "description": 0
+      }
     }
   ]
 }
