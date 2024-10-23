@@ -12,6 +12,6 @@
   "flingPower": 30,
   "klass": "StatBoostItem",
   "loyaltyMalus": -1,
-  "count": 1,
+  "count": 2,
   "stat": "SPD_STAGE"
 }
